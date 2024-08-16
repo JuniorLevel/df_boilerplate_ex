@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FiltersOpenedPage matches the snapshot desktop 1`] = `
+<div>
+  <div
+    class="ant-layout Layoutstyles__StyledLayout-sc-z125ah-0 ydqdt css-1c0na6j"
+  >
+    <div
+      class="ant-layout css-1c0na6j"
+    >
+      <main
+        class="ant-layout-content Layoutstyles__StyledContent-sc-z125ah-1 MFHYS css-1c0na6j"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FiltersOpenedPage matches the snapshot laptop 1`] = `
+<div>
+  <div
+    class="ant-layout Layoutstyles__StyledLayout-sc-z125ah-0 ydqdt css-1c0na6j"
+  >
+    <div
+      class="ant-layout css-1c0na6j"
+    >
+      <main
+        class="ant-layout-content Layoutstyles__StyledContent-sc-z125ah-1 MFHYS css-1c0na6j"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FiltersOpenedPage matches the snapshot mobile 1`] = `
+<div>
+  <div
+    class="ant-layout Layoutstyles__StyledLayout-sc-z125ah-0 ydqdt css-1c0na6j"
+  >
+    <div
+      class="ant-layout css-1c0na6j"
+    >
+      <main
+        class="ant-layout-content Layoutstyles__StyledContent-sc-z125ah-1 MFHYS css-1c0na6j"
+      />
+    </div>
+  </div>
+</div>
+`;

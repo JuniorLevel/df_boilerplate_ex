@@ -1,2 +1,2 @@
 # df_boilerplate_ex
-Styleguide для df_boilerplate
+Styleguide для templates df_boilerplate

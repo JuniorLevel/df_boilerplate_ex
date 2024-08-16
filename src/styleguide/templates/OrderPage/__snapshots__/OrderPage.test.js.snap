@@ -1,0 +1,2482 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OrderPage matches the snapshot desktop 1`] = `
+<div>
+  <div
+    class="ant-layout Layoutstyles__StyledLayout-sc-z125ah-0 ydqdt css-1c0na6j"
+  >
+    <div
+      class="ant-layout css-1c0na6j"
+    >
+      <main
+        class="ant-layout-content Layoutstyles__StyledContent-sc-z125ah-1 MFHYS css-1c0na6j"
+      >
+        <div
+          class="ant-tabs ant-tabs-top OrderListstyles__StyledTabs-sc-13r4tfy-0 QdLJb css-1c0na6j"
+        >
+          <div
+            class="ant-tabs-nav"
+            role="tablist"
+          >
+            <div
+              class="ant-tabs-nav-wrap"
+            >
+              <div
+                class="ant-tabs-nav-list"
+                style="transform: translate(0px, 0px);"
+              >
+                <div
+                  class="ant-tabs-tab"
+                  data-node-key="1"
+                >
+                  <div
+                    aria-controls="rc-tabs-1-panel-1"
+                    aria-selected="false"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-1-tab-1"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        Main info
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-tab"
+                  data-node-key="2"
+                >
+                  <div
+                    aria-controls="rc-tabs-1-panel-2"
+                    aria-selected="false"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-1-tab-2"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        Chat
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-tab"
+                  data-node-key="3"
+                >
+                  <div
+                    aria-controls="rc-tabs-1-panel-3"
+                    aria-selected="false"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-1-tab-3"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        Dashboard
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-tab"
+                  data-node-key="4"
+                >
+                  <div
+                    aria-controls="rc-tabs-1-panel-4"
+                    aria-selected="false"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-1-tab-4"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        Documents
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-tab ant-tabs-tab-active"
+                  data-node-key="5"
+                >
+                  <div
+                    aria-controls="rc-tabs-1-panel-5"
+                    aria-selected="true"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-1-tab-5"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        History
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-ink-bar ant-tabs-ink-bar-animated"
+                />
+              </div>
+            </div>
+            <div
+              class="ant-tabs-nav-operations ant-tabs-nav-operations-hidden"
+            >
+              <button
+                aria-controls="rc-tabs-1-more-popup"
+                aria-expanded="false"
+                aria-haspopup="listbox"
+                aria-hidden="true"
+                class="ant-tabs-nav-more"
+                id="rc-tabs-1-more"
+                style="visibility: hidden; order: 1;"
+                tabindex="-1"
+                type="button"
+              >
+                <span
+                  aria-label="ellipsis"
+                  class="anticon anticon-ellipsis"
+                  role="img"
+                >
+                  <svg
+                    aria-hidden="true"
+                    data-icon="ellipsis"
+                    fill="currentColor"
+                    focusable="false"
+                    height="1em"
+                    viewBox="64 64 896 896"
+                    width="1em"
+                  >
+                    <path
+                      d="M176 511a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0z"
+                    />
+                  </svg>
+                </span>
+              </button>
+            </div>
+          </div>
+          <div
+            class="ant-tabs-content-holder"
+          >
+            <div
+              class="ant-tabs-content ant-tabs-content-top"
+            >
+              <div
+                aria-hidden="false"
+                aria-labelledby="rc-tabs-1-tab-5"
+                class="ant-tabs-tabpane ant-tabs-tabpane-active"
+                id="rc-tabs-1-panel-5"
+                role="tabpanel"
+                tabindex="0"
+              >
+                <div
+                  class="OrderContainer__StyledOrderContainer-sc-1qyagac-0 ekYEeX"
+                >
+                  <div
+                    class="ant-row css-1c0na6j"
+                    style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
+                  >
+                    <div
+                      class="ant-col ant-col-xs-12 css-1c0na6j"
+                      style="padding-left: 8px; padding-right: 8px;"
+                    >
+                      <div
+                        class="ant-row css-1c0na6j"
+                        style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
+                      >
+                        <div
+                          class="ant-col ant-col-xs-12 css-1c0na6j"
+                          style="padding-left: 8px; padding-right: 8px;"
+                        >
+                          <div
+                            class="ant-col ant-col-xs-12 css-1c0na6j"
+                            style="padding-left: 8px; padding-right: 8px;"
+                          >
+                            <div
+                              class="ant-steps ant-steps-vertical css-1c0na6j ant-steps-dot"
+                              style="height: 100%;"
+                            >
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group1
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem1
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group2
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem2
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group3
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem3
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group4
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem4
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group5
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem5
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group6
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem6
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="ant-col ant-col-xs-12 css-1c0na6j"
+                          style="padding-left: 8px; padding-right: 8px;"
+                        >
+                          <div
+                            class="ant-flex css-1c0na6j ant-flex-align-center ant-flex-justify-center"
+                            style="width: 100%; height: 100%; border: 1px solid black; font-size: 2rem;"
+                          >
+                            <div>
+                              Preview Order Page
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="ant-col ant-col-xs-12 css-1c0na6j"
+                      style="padding-left: 8px; padding-right: 8px;"
+                    >
+                      <div
+                        class="ant-row css-1c0na6j"
+                        style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
+                      >
+                        <div
+                          class="ant-col ant-col-xs-12 css-1c0na6j"
+                          style="padding-left: 8px; padding-right: 8px;"
+                        >
+                          <div
+                            class="ant-flex css-1c0na6j ant-flex-align-center ant-flex-justify-center"
+                            style="width: 100%; height: 100%; border: 1px solid black; font-size: 2rem;"
+                          >
+                            <div>
+                              Preview Order Page
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="ant-col ant-col-xs-12 css-1c0na6j"
+                          style="padding-left: 8px; padding-right: 8px;"
+                        >
+                          <div
+                            class="ant-col ant-col-xs-12 css-1c0na6j"
+                            style="padding-left: 8px; padding-right: 8px;"
+                          >
+                            <div
+                              class="ant-steps ant-steps-vertical css-1c0na6j ant-steps-dot"
+                              style="height: 100%;"
+                            >
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group1
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem1
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group2
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem2
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group3
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem3
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group4
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem4
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group5
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem5
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group6
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem6
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`OrderPage matches the snapshot laptop 1`] = `
+<div>
+  <div
+    class="ant-layout Layoutstyles__StyledLayout-sc-z125ah-0 ydqdt css-1c0na6j"
+  >
+    <div
+      class="ant-layout css-1c0na6j"
+    >
+      <main
+        class="ant-layout-content Layoutstyles__StyledContent-sc-z125ah-1 MFHYS css-1c0na6j"
+      >
+        <div
+          class="ant-tabs ant-tabs-top OrderListstyles__StyledTabs-sc-13r4tfy-0 QdLJb css-1c0na6j"
+        >
+          <div
+            class="ant-tabs-nav"
+            role="tablist"
+          >
+            <div
+              class="ant-tabs-nav-wrap"
+            >
+              <div
+                class="ant-tabs-nav-list"
+                style="transform: translate(0px, 0px);"
+              >
+                <div
+                  class="ant-tabs-tab"
+                  data-node-key="1"
+                >
+                  <div
+                    aria-controls="rc-tabs-2-panel-1"
+                    aria-selected="false"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-2-tab-1"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        Main info
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-tab"
+                  data-node-key="2"
+                >
+                  <div
+                    aria-controls="rc-tabs-2-panel-2"
+                    aria-selected="false"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-2-tab-2"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        Chat
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-tab"
+                  data-node-key="3"
+                >
+                  <div
+                    aria-controls="rc-tabs-2-panel-3"
+                    aria-selected="false"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-2-tab-3"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        Dashboard
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-tab"
+                  data-node-key="4"
+                >
+                  <div
+                    aria-controls="rc-tabs-2-panel-4"
+                    aria-selected="false"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-2-tab-4"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        Documents
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-tab ant-tabs-tab-active"
+                  data-node-key="5"
+                >
+                  <div
+                    aria-controls="rc-tabs-2-panel-5"
+                    aria-selected="true"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-2-tab-5"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        History
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-ink-bar ant-tabs-ink-bar-animated"
+                />
+              </div>
+            </div>
+            <div
+              class="ant-tabs-nav-operations ant-tabs-nav-operations-hidden"
+            >
+              <button
+                aria-controls="rc-tabs-2-more-popup"
+                aria-expanded="false"
+                aria-haspopup="listbox"
+                aria-hidden="true"
+                class="ant-tabs-nav-more"
+                id="rc-tabs-2-more"
+                style="visibility: hidden; order: 1;"
+                tabindex="-1"
+                type="button"
+              >
+                <span
+                  aria-label="ellipsis"
+                  class="anticon anticon-ellipsis"
+                  role="img"
+                >
+                  <svg
+                    aria-hidden="true"
+                    data-icon="ellipsis"
+                    fill="currentColor"
+                    focusable="false"
+                    height="1em"
+                    viewBox="64 64 896 896"
+                    width="1em"
+                  >
+                    <path
+                      d="M176 511a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0z"
+                    />
+                  </svg>
+                </span>
+              </button>
+            </div>
+          </div>
+          <div
+            class="ant-tabs-content-holder"
+          >
+            <div
+              class="ant-tabs-content ant-tabs-content-top"
+            >
+              <div
+                aria-hidden="false"
+                aria-labelledby="rc-tabs-2-tab-5"
+                class="ant-tabs-tabpane ant-tabs-tabpane-active"
+                id="rc-tabs-2-panel-5"
+                role="tabpanel"
+                tabindex="0"
+              >
+                <div
+                  class="OrderContainer__StyledOrderContainer-sc-1qyagac-0 ekYEeX"
+                >
+                  <div
+                    class="ant-row css-1c0na6j"
+                    style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
+                  >
+                    <div
+                      class="ant-col ant-col-xs-12 css-1c0na6j"
+                      style="padding-left: 8px; padding-right: 8px;"
+                    >
+                      <div
+                        class="ant-row css-1c0na6j"
+                        style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
+                      >
+                        <div
+                          class="ant-col ant-col-xs-12 css-1c0na6j"
+                          style="padding-left: 8px; padding-right: 8px;"
+                        >
+                          <div
+                            class="ant-col ant-col-xs-12 css-1c0na6j"
+                            style="padding-left: 8px; padding-right: 8px;"
+                          >
+                            <div
+                              class="ant-steps ant-steps-vertical css-1c0na6j ant-steps-dot"
+                              style="height: 100%;"
+                            >
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group1
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem1
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group2
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem2
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group3
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem3
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group4
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem4
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group5
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem5
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group6
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem6
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="ant-col ant-col-xs-12 css-1c0na6j"
+                          style="padding-left: 8px; padding-right: 8px;"
+                        >
+                          <div
+                            class="ant-flex css-1c0na6j ant-flex-align-center ant-flex-justify-center"
+                            style="width: 100%; height: 100%; border: 1px solid black; font-size: 2rem;"
+                          >
+                            <div>
+                              Preview Order Page
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="ant-col ant-col-xs-12 css-1c0na6j"
+                      style="padding-left: 8px; padding-right: 8px;"
+                    >
+                      <div
+                        class="ant-row css-1c0na6j"
+                        style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
+                      >
+                        <div
+                          class="ant-col ant-col-xs-12 css-1c0na6j"
+                          style="padding-left: 8px; padding-right: 8px;"
+                        >
+                          <div
+                            class="ant-flex css-1c0na6j ant-flex-align-center ant-flex-justify-center"
+                            style="width: 100%; height: 100%; border: 1px solid black; font-size: 2rem;"
+                          >
+                            <div>
+                              Preview Order Page
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="ant-col ant-col-xs-12 css-1c0na6j"
+                          style="padding-left: 8px; padding-right: 8px;"
+                        >
+                          <div
+                            class="ant-col ant-col-xs-12 css-1c0na6j"
+                            style="padding-left: 8px; padding-right: 8px;"
+                          >
+                            <div
+                              class="ant-steps ant-steps-vertical css-1c0na6j ant-steps-dot"
+                              style="height: 100%;"
+                            >
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group1
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem1
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group2
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem2
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group3
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem3
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group4
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem4
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group5
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem5
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group6
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem6
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`OrderPage matches the snapshot mobile 1`] = `
+<div>
+  <div
+    class="ant-layout Layoutstyles__StyledLayout-sc-z125ah-0 ydqdt css-1c0na6j"
+  >
+    <div
+      class="ant-layout css-1c0na6j"
+    >
+      <main
+        class="ant-layout-content Layoutstyles__StyledContent-sc-z125ah-1 MFHYS css-1c0na6j"
+      >
+        <div
+          class="ant-tabs ant-tabs-top OrderListstyles__StyledTabs-sc-13r4tfy-0 QdLJb css-1c0na6j"
+        >
+          <div
+            class="ant-tabs-nav"
+            role="tablist"
+          >
+            <div
+              class="ant-tabs-nav-wrap"
+            >
+              <div
+                class="ant-tabs-nav-list"
+                style="transform: translate(0px, 0px);"
+              >
+                <div
+                  class="ant-tabs-tab"
+                  data-node-key="1"
+                >
+                  <div
+                    aria-controls="rc-tabs-3-panel-1"
+                    aria-selected="false"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-3-tab-1"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        Main info
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-tab"
+                  data-node-key="2"
+                >
+                  <div
+                    aria-controls="rc-tabs-3-panel-2"
+                    aria-selected="false"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-3-tab-2"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        Chat
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-tab"
+                  data-node-key="3"
+                >
+                  <div
+                    aria-controls="rc-tabs-3-panel-3"
+                    aria-selected="false"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-3-tab-3"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        Dashboard
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-tab"
+                  data-node-key="4"
+                >
+                  <div
+                    aria-controls="rc-tabs-3-panel-4"
+                    aria-selected="false"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-3-tab-4"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        Documents
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-tab ant-tabs-tab-active"
+                  data-node-key="5"
+                >
+                  <div
+                    aria-controls="rc-tabs-3-panel-5"
+                    aria-selected="true"
+                    class="ant-tabs-tab-btn"
+                    id="rc-tabs-3-tab-5"
+                    role="tab"
+                    tabindex="0"
+                  >
+                    <div
+                      class="ant-flex css-1c0na6j ant-flex-align-center"
+                      style="gap: 10px;"
+                    >
+                      <div>
+                        History
+                      </div>
+                      <span
+                        class="ant-badge ant-badge-not-a-wrapper css-1c0na6j"
+                      >
+                        <sup
+                          class="ant-scroll-number ant-badge-count"
+                          data-show="true"
+                          title="3"
+                        >
+                          <bdi>
+                            <span
+                              class="ant-scroll-number-only"
+                              style="transition: none;"
+                            >
+                              <span
+                                class="ant-scroll-number-only-unit current"
+                              >
+                                3
+                              </span>
+                            </span>
+                          </bdi>
+                        </sup>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs-ink-bar ant-tabs-ink-bar-animated"
+                />
+              </div>
+            </div>
+            <div
+              class="ant-tabs-nav-operations ant-tabs-nav-operations-hidden"
+            >
+              <button
+                aria-controls="rc-tabs-3-more-popup"
+                aria-expanded="false"
+                aria-haspopup="listbox"
+                aria-hidden="true"
+                class="ant-tabs-nav-more"
+                id="rc-tabs-3-more"
+                style="visibility: hidden; order: 1;"
+                tabindex="-1"
+                type="button"
+              >
+                <span
+                  aria-label="ellipsis"
+                  class="anticon anticon-ellipsis"
+                  role="img"
+                >
+                  <svg
+                    aria-hidden="true"
+                    data-icon="ellipsis"
+                    fill="currentColor"
+                    focusable="false"
+                    height="1em"
+                    viewBox="64 64 896 896"
+                    width="1em"
+                  >
+                    <path
+                      d="M176 511a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0z"
+                    />
+                  </svg>
+                </span>
+              </button>
+            </div>
+          </div>
+          <div
+            class="ant-tabs-content-holder"
+          >
+            <div
+              class="ant-tabs-content ant-tabs-content-top"
+            >
+              <div
+                aria-hidden="false"
+                aria-labelledby="rc-tabs-3-tab-5"
+                class="ant-tabs-tabpane ant-tabs-tabpane-active"
+                id="rc-tabs-3-panel-5"
+                role="tabpanel"
+                tabindex="0"
+              >
+                <div
+                  class="OrderContainer__StyledOrderContainer-sc-1qyagac-0 ekYEeX"
+                >
+                  <div
+                    class="ant-row css-1c0na6j"
+                    style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
+                  >
+                    <div
+                      class="ant-col ant-col-xs-12 css-1c0na6j"
+                      style="padding-left: 8px; padding-right: 8px;"
+                    >
+                      <div
+                        class="ant-row css-1c0na6j"
+                        style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
+                      >
+                        <div
+                          class="ant-col ant-col-xs-12 css-1c0na6j"
+                          style="padding-left: 8px; padding-right: 8px;"
+                        >
+                          <div
+                            class="ant-col ant-col-xs-12 css-1c0na6j"
+                            style="padding-left: 8px; padding-right: 8px;"
+                          >
+                            <div
+                              class="ant-steps ant-steps-vertical css-1c0na6j ant-steps-dot"
+                              style="height: 100%;"
+                            >
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group1
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem1
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group2
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem2
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group3
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem3
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group4
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem4
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group5
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem5
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group6
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem6
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="ant-col ant-col-xs-12 css-1c0na6j"
+                          style="padding-left: 8px; padding-right: 8px;"
+                        >
+                          <div
+                            class="ant-flex css-1c0na6j ant-flex-align-center ant-flex-justify-center"
+                            style="width: 100%; height: 100%; border: 1px solid black; font-size: 2rem;"
+                          >
+                            <div>
+                              Preview Order Page
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="ant-col ant-col-xs-12 css-1c0na6j"
+                      style="padding-left: 8px; padding-right: 8px;"
+                    >
+                      <div
+                        class="ant-row css-1c0na6j"
+                        style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
+                      >
+                        <div
+                          class="ant-col ant-col-xs-12 css-1c0na6j"
+                          style="padding-left: 8px; padding-right: 8px;"
+                        >
+                          <div
+                            class="ant-flex css-1c0na6j ant-flex-align-center ant-flex-justify-center"
+                            style="width: 100%; height: 100%; border: 1px solid black; font-size: 2rem;"
+                          >
+                            <div>
+                              Preview Order Page
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="ant-col ant-col-xs-12 css-1c0na6j"
+                          style="padding-left: 8px; padding-right: 8px;"
+                        >
+                          <div
+                            class="ant-col ant-col-xs-12 css-1c0na6j"
+                            style="padding-left: 8px; padding-right: 8px;"
+                          >
+                            <div
+                              class="ant-steps ant-steps-vertical css-1c0na6j ant-steps-dot"
+                              style="height: 100%;"
+                            >
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group1
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem1
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group2
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem2
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group3
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem3
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group4
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem4
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group5
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem5
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-steps-item ant-steps-item-finish"
+                              >
+                                <div
+                                  class="ant-steps-item-container"
+                                >
+                                  <div
+                                    class="ant-steps-item-tail"
+                                  />
+                                  <div
+                                    class="ant-steps-item-icon"
+                                  >
+                                    <span
+                                      class="ant-steps-icon"
+                                    >
+                                      <span
+                                        class="ant-steps-icon-dot"
+                                      />
+                                    </span>
+                                  </div>
+                                  <div
+                                    class="ant-steps-item-content"
+                                  >
+                                    <div
+                                      class="ant-steps-item-title"
+                                    >
+                                      Group6
+                                    </div>
+                                    <div
+                                      class="ant-steps-item-description"
+                                    >
+                                      CustomItem6
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+</div>
+`;
