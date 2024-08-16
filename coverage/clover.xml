@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1723805894485" clover="3.2.0">
+  <project timestamp="1723805894485" name="All files">
+    <metrics statements="82" coveredstatements="58" conditionals="0" coveredconditionals="0" methods="138" coveredmethods="16" elements="220" coveredelements="74" complexity="0" loc="82" ncloc="82" packages="16" files="16" classes="16"/>
+    <package name="DiffClosedCardsPage">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <file name="DiffClosedCardsPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/DiffClosedCardsPage/DiffClosedCardsPage.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="351" count="4" type="stmt"/>
+        <line num="377" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="DiffOpenedCardsPage">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <file name="DiffOpenedCardsPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/DiffOpenedCardsPage/DiffOpenedCardsPage.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="49" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="FiltersClosedPage">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <file name="FiltersClosedPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/FiltersClosedPage/FiltersClosedPage.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="178" count="4" type="stmt"/>
+        <line num="204" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="FiltersClosedPreviewPage">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <file name="FiltersClosedPreviewPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/FiltersClosedPreviewPage/FiltersClosedPreviewPage.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="350" count="4" type="stmt"/>
+        <line num="376" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="FiltersOpenedPage">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <file name="FiltersOpenedPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/FiltersOpenedPage/FiltersOpenedPage.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="45" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="HomePage">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <file name="HomePage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/HomePage/HomePage.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="OrderPage">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <file name="OrderPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/OrderPage/OrderPage.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="62" count="4" type="stmt"/>
+        <line num="141" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="TimeWidgetsPage">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <file name="TimeWidgetsPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/TimeWidgetsPage/TimeWidgetsPage.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="WelcomePages.WelcomePage1">
+      <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="1"/>
+      <file name="WelcomePage1.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/WelcomePages/WelcomePage1/WelcomePage1.jsx">
+        <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="1"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="WelcomePages.WelcomePage2">
+      <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="1"/>
+      <file name="WelcomePage2.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/WelcomePages/WelcomePage2/WelcomePage2.jsx">
+        <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="1"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="WelcomePages.WelcomePage3">
+      <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="1"/>
+      <file name="WelcomePage3.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/WelcomePages/WelcomePage3/WelcomePage3.jsx">
+        <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="1"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="WelcomePages.WelcomePage4">
+      <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="1"/>
+      <file name="WelcomePage4.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/WelcomePages/WelcomePage4/WelcomePage4.jsx">
+        <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="1"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="WelcomePages.WelcomePage5">
+      <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="1"/>
+      <file name="WelcomePage5.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/WelcomePages/WelcomePage5/WelcomePage5.jsx">
+        <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="1"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="WelcomePages.WelcomePage6">
+      <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="1"/>
+      <file name="WelcomePage6.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/WelcomePages/WelcomePage6/WelcomePage6.jsx">
+        <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="1"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="WelcomePages.WelcomePage7">
+      <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="1"/>
+      <file name="WelcomePage7.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/WelcomePages/WelcomePage7/WelcomePage7.jsx">
+        <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="1"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="WelcomePages.WelcomePage8">
+      <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="1"/>
+      <file name="WelcomePage8.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/styleguide/templates/WelcomePages/WelcomePage8/WelcomePage8.jsx">
+        <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="1"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
