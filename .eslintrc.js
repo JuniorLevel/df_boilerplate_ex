@@ -32,6 +32,7 @@ module.exports = {
 		'import/prefer-default-export': 'off',
 		'import/no-default-export': 'error',
 		'consistent-return': 0,
+		'no-alert': 'off',
 	},
 	env: {
 		browser: true,

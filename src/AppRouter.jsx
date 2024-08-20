@@ -2,29 +2,27 @@
 
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
-import {
-	WelcomePage1,
-	WelcomePage2,
-	WelcomePage3,
-	WelcomePage4,
-	WelcomePage5,
-	WelcomePage6,
-	WelcomePage7,
-	WelcomePage8,
-	FiltersOpenedPage,
-	FiltersClosedPage,
-	FiltersClosedPreviewPage,
-	DiffOpenedCardsPage,
-	DiffClosedCardsPage,
-	OrderPage,
-	TimeWidgetsPage,
-} from '@juniorlevel/df_boilerplate-library';
-import { HomePage } from './styleguide/templates/HomePage/HomePage';
-import Image1 from './styleguide/templates/WelcomePages/images/Image1.jpg';
-import Image2 from './styleguide/templates/WelcomePages/images/Image2.jpg';
-import Image3 from './styleguide/templates/WelcomePages/images/Image3.jpg';
-import Image4 from './styleguide/templates/WelcomePages/images/Image4.jpg';
+import { WelcomePage1 } from './WelcomePages/WelcomePage1/WelcomePage1';
+import { WelcomePage2 } from './WelcomePages/WelcomePage2/WelcomePage2';
+import { WelcomePage3 } from './WelcomePages/WelcomePage3/WelcomePage3';
+import { WelcomePage4 } from './WelcomePages/WelcomePage4/WelcomePage4';
+import { WelcomePage5 } from './WelcomePages/WelcomePage5/WelcomePage5';
+import { WelcomePage6 } from './WelcomePages/WelcomePage6/WelcomePage6';
+import { WelcomePage7 } from './WelcomePages/WelcomePage7/WelcomePage7';
+import { WelcomePage8 } from './WelcomePages/WelcomePage8/WelcomePage8';
+import { HomePage } from './HomePage/HomePage';
 import { HomeDev } from './HomeDev';
+import { OrdersFilterOpenedPage } from './OrdersFilterOpenedPage/OrdersFilterOpenedPage';
+import { OrdersFilterClosedPage } from './OrdersFilterClosedPage/OrdersFilterClosedPage';
+import { OrderListPreviewPage } from './OrderListPreviewPage/OrderListPreviewPage';
+import { DiffOpenedCardsPage } from './DiffOpenedCardsPage/DiffOpenedCardsPage';
+import { DiffClosedCardsPage } from './DiffClosedCardsPage/DiffClosedCardsPage';
+import { OrderPage } from './OrderPage/OrderPage';
+import { TimeWidgetsPage } from './TimeWidgetsPage/TimeWidgetsPage';
+import Image1 from './WelcomePages/images/Image1.jpg';
+import Image2 from './WelcomePages/images/Image2.jpg';
+import Image3 from './WelcomePages/images/Image3.jpg';
+import Image4 from './WelcomePages/images/Image4.jpg';
 
 const imagesUrls = [
 	{ id: 1, url: Image1 },
@@ -39,12 +37,15 @@ export const AppRouter = (): React$MixedElement => (
 		<Route path="/home" element={<HomePage />} />
 		<Route path="/order" element={<OrderPage />} />
 		<Route path="/TimeWidgetsPage" element={<TimeWidgetsPage />} />
-		<Route path="/FiltersOpenedPage" element={<FiltersOpenedPage />} />
-		<Route path="/FiltersClosedPage" element={<FiltersClosedPage />} />
 		<Route
-			path="/FiltersClosedPreviewPage"
-			element={<FiltersClosedPreviewPage />}
+			path="/OrdersFilterOpenedPage"
+			element={<OrdersFilterOpenedPage />}
 		/>
+		<Route
+			path="/OrdersFilterClosedPage"
+			element={<OrdersFilterClosedPage />}
+		/>
+		<Route path="/OrderListPreviewPage" element={<OrderListPreviewPage />} />
 		<Route path="/DiffOpenedCardsPage" element={<DiffOpenedCardsPage />} />
 		<Route path="/DiffClosedCardsPage" element={<DiffClosedCardsPage />} />
 		<Route
