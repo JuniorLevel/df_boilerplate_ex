@@ -3,13 +3,13 @@
 exports[`HomePage matches the snapshot desktop 1`] = `
 <div>
   <div
-    class="ant-layout Layoutstyles__StyledLayout-sc-z125ah-0 ydqdt css-1c0na6j"
+    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 dCkqfg css-1gwfwyx"
   >
     <div
-      class="ant-layout css-1c0na6j"
+      class="ant-layout css-1gwfwyx"
     >
       <main
-        class="ant-layout-content Layoutstyles__StyledContent-sc-z125ah-1 MFHYS css-1c0na6j"
+        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 eUqUAz css-1gwfwyx"
       >
         <div />
       </main>
@@ -21,13 +21,13 @@ exports[`HomePage matches the snapshot desktop 1`] = `
 exports[`HomePage matches the snapshot laptop 1`] = `
 <div>
   <div
-    class="ant-layout Layoutstyles__StyledLayout-sc-z125ah-0 ydqdt css-1c0na6j"
+    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 dCkqfg css-1gwfwyx"
   >
     <div
-      class="ant-layout css-1c0na6j"
+      class="ant-layout css-1gwfwyx"
     >
       <main
-        class="ant-layout-content Layoutstyles__StyledContent-sc-z125ah-1 MFHYS css-1c0na6j"
+        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 eUqUAz css-1gwfwyx"
       >
         <div />
       </main>
@@ -39,13 +39,13 @@ exports[`HomePage matches the snapshot laptop 1`] = `
 exports[`HomePage matches the snapshot mobile 1`] = `
 <div>
   <div
-    class="ant-layout Layoutstyles__StyledLayout-sc-z125ah-0 ydqdt css-1c0na6j"
+    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 dCkqfg css-1gwfwyx"
   >
     <div
-      class="ant-layout css-1c0na6j"
+      class="ant-layout css-1gwfwyx"
     >
       <main
-        class="ant-layout-content Layoutstyles__StyledContent-sc-z125ah-1 MFHYS css-1c0na6j"
+        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 eUqUAz css-1gwfwyx"
       >
         <div />
       </main>

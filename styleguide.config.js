@@ -2,10 +2,40 @@
 /* eslint-disable no-unused-vars */
 
 const path = require('path');
+const fs = require('fs');
 
 module.exports = {
 	title: 'Документация',
 	pagePerSection: true,
+	exampleMode: 'expand',
+	updateExample(props, exampleFilePath) {
+		const { settings = {}, lang } = props;
+		if (typeof settings.file === 'string') {
+			const filepath = path.resolve(
+				path.dirname(exampleFilePath),
+				settings.file
+			);
+			const { file, ...restSettings } = settings;
+			const content = fs.readFileSync(filepath, 'utf8');
+			const updatedContent = content
+				.replace(/^\s*\/\/\s?@flow\s*\n/, '')
+				.trim()
+				.replace(/^export.*$/gm, '')
+				.trim()
+				.replace(/^\s*return.*$/gm, '')
+				.trim()
+				.replace(/\s*[/);\\}]\s*;?$/, '')
+				.trim()
+				.replace(/\s*[/);\\}]\s*;?$/, '')
+				.trim();
+			return {
+				content: updatedContent,
+				settings: restSettings,
+				lang,
+			};
+		}
+		return props;
+	},
 	sections: [
 		{
 			name: 'OrderListPreviewPage',
@@ -32,8 +62,12 @@ module.exports = {
 			content: 'src/HomePage/Layout.md',
 		},
 		{
-			name: 'WelcomePage',
-			content: 'src/WelcomePages/Welcome.md',
+			name: 'WelcomePage1',
+			content: 'src/WelcomePages/WelcomePage1/WelcomePage1.md',
+		},
+		{
+			name: 'WelcomePage5',
+			content: 'src/WelcomePages/WelcomePage5/WelcomePage5.md',
 		},
 	],
 	styles: {

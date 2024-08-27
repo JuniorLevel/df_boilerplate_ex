@@ -19,10 +19,10 @@ import { DiffOpenedCardsPage } from './DiffOpenedCardsPage/DiffOpenedCardsPage';
 import { DiffClosedCardsPage } from './DiffClosedCardsPage/DiffClosedCardsPage';
 import { OrderPage } from './OrderPage/OrderPage';
 import { TimeWidgetsPage } from './TimeWidgetsPage/TimeWidgetsPage';
-import Image1 from './WelcomePages/images/Image1.jpg';
-import Image2 from './WelcomePages/images/Image2.jpg';
-import Image3 from './WelcomePages/images/Image3.jpg';
-import Image4 from './WelcomePages/images/Image4.jpg';
+import Image1 from './WelcomePages/pictures/Image1.jpg';
+import Image2 from './WelcomePages/pictures/Image2.jpg';
+import Image3 from './WelcomePages/pictures/Image3.jpg';
+import Image4 from './WelcomePages/pictures/Image4.jpg';
 
 const imagesUrls = [
 	{ id: 1, url: Image1 },

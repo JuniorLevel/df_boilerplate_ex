@@ -1,30 +1,11 @@
 // @flow
 
 import React from 'react';
-import { Layout, TimeWidgetsPanel } from '@juniorlevel/df_boilerplate-library';
+import { TimeWidgetsPanel, Layout } from '@juniorlevel/df_boilerplate-library';
+import { sidebarButtons } from './data';
 
-export const TimeWidgetsPage = (): React$MixedElement => {
-	const buttons = [
-		{
-			id: 1,
-			title: 'Orders',
-			onClick: () => {},
-		},
-		{
-			id: 2,
-			title: 'Compare',
-			onClick: () => {},
-		},
-		{
-			id: 3,
-			title: 'Admin',
-			onClick: () => {},
-		},
-	];
-
-	return (
-		<Layout buttons={buttons} title="Caption" avatar={{ title: 'AV' }}>
-			<TimeWidgetsPanel />
-		</Layout>
-	);
-};
+export const TimeWidgetsPage = (): React$MixedElement => (
+	<Layout buttons={sidebarButtons} title="Caption" avatar={{ title: 'AV' }}>
+		<TimeWidgetsPanel />
+	</Layout>
+);

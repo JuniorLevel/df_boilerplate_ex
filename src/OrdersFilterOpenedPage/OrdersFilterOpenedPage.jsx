@@ -1,52 +1,17 @@
 // @flow
 
-import React, { useState } from 'react';
+import React from 'react';
 import {
+	OrdersFilterOpened,
 	Layout,
 	OrderListProvider,
-	OrdersFilterOpened,
 } from '@juniorlevel/df_boilerplate-library';
+import { filters, sidebarButtons } from './data';
 
-export const OrdersFilterOpenedPage = (): React.Node => {
-	const buttons = [
-		{
-			id: 1,
-			title: 'Orders',
-			onClick: () => {},
-		},
-		{
-			id: 2,
-			title: 'Compare',
-			onClick: () => {},
-		},
-		{
-			id: 3,
-			title: 'Admin',
-			onClick: () => {},
-		},
-	];
-
-	const [filters] = useState([
-		{
-			id: 1,
-			cardItem: [{ id: 1, status: 'changed', text: 'lorem-1' }],
-		},
-
-		{
-			id: 2,
-			cardItem: [
-				{ id: 1, status: 'updated', text: 'project-1' },
-				{ id: 2, status: 'changed', text: 'project-2' },
-				{ id: 3, status: 'updated', text: 'project-3' },
-			],
-		},
-	]);
-
-	return (
-		<OrderListProvider>
-			<Layout buttons={buttons} title="Caption" avatar={{ title: 'AV' }}>
-				<OrdersFilterOpened open filters={filters} />
-			</Layout>
-		</OrderListProvider>
-	);
-};
+export const OrdersFilterOpenedPage = (): React.Node => (
+	<OrderListProvider>
+		<Layout buttons={sidebarButtons} title="Caption" avatar={{ title: 'AV' }}>
+			<OrdersFilterOpened open filters={filters} />
+		</Layout>
+	</OrderListProvider>
+);

@@ -3,34 +3,34 @@
 exports[`WelcomePage1 matches the snapshot desktop 1`] = `
 <div>
   <div
-    class="FourImagesBgstyles__DivImageContainer-sc-1q6880g-0 dxcnEG"
+    class="FourImagesBgstyles__DivImageContainer-sc-4szpv9-0 hlPjnx"
   >
     <div
-      class="ant-flex css-1c0na6j ant-flex-align-center ant-flex-justify-center"
+      class="ant-flex css-1gwfwyx ant-flex-align-center ant-flex-justify-center"
       style="height: 100vh;"
     >
       <div
-        class="ant-layout css-1c0na6j"
+        class="ant-layout css-1gwfwyx"
         style="width: 100%; max-width: 300px; padding: 20px 15px;"
       >
         <h1
-          class="ant-typography css-1c0na6j"
+          class="ant-typography css-1gwfwyx"
           style="text-align: center;"
         >
           Welcome
         </h1>
         <input
-          class="ant-input css-1c0na6j ant-input-outlined"
+          class="ant-input css-1gwfwyx ant-input-outlined"
           placeholder="email"
           style="margin-bottom: 20px;"
           type="text"
           value=""
         />
         <div
-          class="Welcome__ButtonContainer-sc-p9wa2l-0 hSXGab"
+          class="Welcome__ButtonContainer-sc-8vujwa-0 emwSwV"
         >
           <button
-            class="ant-btn css-1c0na6j ant-btn-default ant-btn-block"
+            class="ant-btn css-1gwfwyx ant-btn-default ant-btn-block"
             type="button"
           >
             <span>
@@ -38,7 +38,7 @@ exports[`WelcomePage1 matches the snapshot desktop 1`] = `
             </span>
           </button>
           <button
-            class="ant-btn css-1c0na6j ant-btn-default ant-btn-block"
+            class="ant-btn css-1gwfwyx ant-btn-default ant-btn-block"
             type="button"
           >
             <span>
@@ -46,7 +46,7 @@ exports[`WelcomePage1 matches the snapshot desktop 1`] = `
             </span>
           </button>
           <button
-            class="ant-btn css-1c0na6j ant-btn-default ant-btn-block"
+            class="ant-btn css-1gwfwyx ant-btn-default ant-btn-block"
             type="button"
           >
             <span>
@@ -55,11 +55,11 @@ exports[`WelcomePage1 matches the snapshot desktop 1`] = `
           </button>
         </div>
         <div
-          class="ant-flex css-1c0na6j ant-flex-wrap-wrap ant-flex-justify-center ant-flex-gap-large"
+          class="ant-flex css-1gwfwyx ant-flex-wrap-wrap ant-flex-justify-center ant-flex-gap-large"
           style="margin-bottom: 20px;"
         >
           <button
-            class="ant-btn css-1c0na6j ant-btn-circle ant-btn-primary"
+            class="ant-btn css-1gwfwyx ant-btn-circle ant-btn-primary"
             type="button"
           >
             <span>
@@ -67,7 +67,7 @@ exports[`WelcomePage1 matches the snapshot desktop 1`] = `
             </span>
           </button>
           <button
-            class="ant-btn css-1c0na6j ant-btn-circle ant-btn-primary"
+            class="ant-btn css-1gwfwyx ant-btn-circle ant-btn-primary"
             type="button"
           >
             <span>
@@ -84,34 +84,34 @@ exports[`WelcomePage1 matches the snapshot desktop 1`] = `
 exports[`WelcomePage1 matches the snapshot laptop 1`] = `
 <div>
   <div
-    class="FourImagesBgstyles__DivImageContainer-sc-1q6880g-0 dxcnEG"
+    class="FourImagesBgstyles__DivImageContainer-sc-4szpv9-0 hlPjnx"
   >
     <div
-      class="ant-flex css-1c0na6j ant-flex-align-center ant-flex-justify-center"
+      class="ant-flex css-1gwfwyx ant-flex-align-center ant-flex-justify-center"
       style="height: 100vh;"
     >
       <div
-        class="ant-layout css-1c0na6j"
+        class="ant-layout css-1gwfwyx"
         style="width: 100%; max-width: 300px; padding: 20px 15px;"
       >
         <h1
-          class="ant-typography css-1c0na6j"
+          class="ant-typography css-1gwfwyx"
           style="text-align: center;"
         >
           Welcome
         </h1>
         <input
-          class="ant-input css-1c0na6j ant-input-outlined"
+          class="ant-input css-1gwfwyx ant-input-outlined"
           placeholder="email"
           style="margin-bottom: 20px;"
           type="text"
           value=""
         />
         <div
-          class="Welcome__ButtonContainer-sc-p9wa2l-0 hSXGab"
+          class="Welcome__ButtonContainer-sc-8vujwa-0 emwSwV"
         >
           <button
-            class="ant-btn css-1c0na6j ant-btn-default ant-btn-block"
+            class="ant-btn css-1gwfwyx ant-btn-default ant-btn-block"
             type="button"
           >
             <span>
@@ -119,7 +119,7 @@ exports[`WelcomePage1 matches the snapshot laptop 1`] = `
             </span>
           </button>
           <button
-            class="ant-btn css-1c0na6j ant-btn-default ant-btn-block"
+            class="ant-btn css-1gwfwyx ant-btn-default ant-btn-block"
             type="button"
           >
             <span>
@@ -127,7 +127,7 @@ exports[`WelcomePage1 matches the snapshot laptop 1`] = `
             </span>
           </button>
           <button
-            class="ant-btn css-1c0na6j ant-btn-default ant-btn-block"
+            class="ant-btn css-1gwfwyx ant-btn-default ant-btn-block"
             type="button"
           >
             <span>
@@ -136,11 +136,11 @@ exports[`WelcomePage1 matches the snapshot laptop 1`] = `
           </button>
         </div>
         <div
-          class="ant-flex css-1c0na6j ant-flex-wrap-wrap ant-flex-justify-center ant-flex-gap-large"
+          class="ant-flex css-1gwfwyx ant-flex-wrap-wrap ant-flex-justify-center ant-flex-gap-large"
           style="margin-bottom: 20px;"
         >
           <button
-            class="ant-btn css-1c0na6j ant-btn-circle ant-btn-primary"
+            class="ant-btn css-1gwfwyx ant-btn-circle ant-btn-primary"
             type="button"
           >
             <span>
@@ -148,7 +148,7 @@ exports[`WelcomePage1 matches the snapshot laptop 1`] = `
             </span>
           </button>
           <button
-            class="ant-btn css-1c0na6j ant-btn-circle ant-btn-primary"
+            class="ant-btn css-1gwfwyx ant-btn-circle ant-btn-primary"
             type="button"
           >
             <span>
@@ -165,34 +165,34 @@ exports[`WelcomePage1 matches the snapshot laptop 1`] = `
 exports[`WelcomePage1 matches the snapshot mobile 1`] = `
 <div>
   <div
-    class="FourImagesBgstyles__DivImageContainer-sc-1q6880g-0 dxcnEG"
+    class="FourImagesBgstyles__DivImageContainer-sc-4szpv9-0 hlPjnx"
   >
     <div
-      class="ant-flex css-1c0na6j ant-flex-align-center ant-flex-justify-center"
+      class="ant-flex css-1gwfwyx ant-flex-align-center ant-flex-justify-center"
       style="height: 100vh;"
     >
       <div
-        class="ant-layout css-1c0na6j"
+        class="ant-layout css-1gwfwyx"
         style="width: 100%; max-width: 300px; padding: 20px 15px;"
       >
         <h1
-          class="ant-typography css-1c0na6j"
+          class="ant-typography css-1gwfwyx"
           style="text-align: center;"
         >
           Welcome
         </h1>
         <input
-          class="ant-input css-1c0na6j ant-input-outlined"
+          class="ant-input css-1gwfwyx ant-input-outlined"
           placeholder="email"
           style="margin-bottom: 20px;"
           type="text"
           value=""
         />
         <div
-          class="Welcome__ButtonContainer-sc-p9wa2l-0 hSXGab"
+          class="Welcome__ButtonContainer-sc-8vujwa-0 emwSwV"
         >
           <button
-            class="ant-btn css-1c0na6j ant-btn-default ant-btn-block"
+            class="ant-btn css-1gwfwyx ant-btn-default ant-btn-block"
             type="button"
           >
             <span>
@@ -200,7 +200,7 @@ exports[`WelcomePage1 matches the snapshot mobile 1`] = `
             </span>
           </button>
           <button
-            class="ant-btn css-1c0na6j ant-btn-default ant-btn-block"
+            class="ant-btn css-1gwfwyx ant-btn-default ant-btn-block"
             type="button"
           >
             <span>
@@ -208,7 +208,7 @@ exports[`WelcomePage1 matches the snapshot mobile 1`] = `
             </span>
           </button>
           <button
-            class="ant-btn css-1c0na6j ant-btn-default ant-btn-block"
+            class="ant-btn css-1gwfwyx ant-btn-default ant-btn-block"
             type="button"
           >
             <span>
@@ -217,11 +217,11 @@ exports[`WelcomePage1 matches the snapshot mobile 1`] = `
           </button>
         </div>
         <div
-          class="ant-flex css-1c0na6j ant-flex-wrap-wrap ant-flex-justify-center ant-flex-gap-large"
+          class="ant-flex css-1gwfwyx ant-flex-wrap-wrap ant-flex-justify-center ant-flex-gap-large"
           style="margin-bottom: 20px;"
         >
           <button
-            class="ant-btn css-1c0na6j ant-btn-circle ant-btn-primary"
+            class="ant-btn css-1gwfwyx ant-btn-circle ant-btn-primary"
             type="button"
           >
             <span>
@@ -229,7 +229,7 @@ exports[`WelcomePage1 matches the snapshot mobile 1`] = `
             </span>
           </button>
           <button
-            class="ant-btn css-1c0na6j ant-btn-circle ant-btn-primary"
+            class="ant-btn css-1gwfwyx ant-btn-circle ant-btn-primary"
             type="button"
           >
             <span>

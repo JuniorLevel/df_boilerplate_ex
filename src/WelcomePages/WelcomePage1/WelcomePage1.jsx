@@ -1,46 +1,27 @@
 // @flow
 
+import React from 'react';
 import {
-	FourImagesBg,
 	Welcome,
+	FourImagesBg,
 	WelcomeAuthButtons,
 	WelcomeButton,
 } from '@juniorlevel/df_boilerplate-library';
-import React from 'react';
+import { welcomeButtons, authButtons, images } from './data';
 
-interface IWelcomePage1Props {
-	imagesUrls: { id: number, url: string }[];
-}
-
-export const WelcomePage1 = ({
-	imagesUrls,
-}: IWelcomePage1Props): React.Node => {
-	const buttons = [
-		{
-			id: 1,
-			title: 'email',
-			onClick: () => alert('email'),
-		},
-		{
-			id: 2,
-			title: 'LogIn',
-			onClick: () => alert('LogIn'),
-		},
-		{
-			id: 3,
-			title: 'CreateAccount',
-			onClick: () => alert('CreateAccount'),
-		},
-	];
-
-	return (
-		<FourImagesBg imagesUrls={imagesUrls}>
-			<Welcome buttons={buttons}>
-				<WelcomeAuthButtons>
-					<WelcomeButton title="G" onClick={(): any => {}} />
-					<WelcomeButton title="VK" onClick={(): any => {}} />
-				</WelcomeAuthButtons>
-			</Welcome>
-		</FourImagesBg>
-	);
-};
+export const WelcomePage1 = (): React$MixedElement => (
+	<FourImagesBg imagesUrls={images}>
+		<Welcome buttons={welcomeButtons}>
+			<WelcomeAuthButtons>
+				<WelcomeButton
+					title={authButtons[0].title}
+					onClick={authButtons[0].onClick}
+				/>
+				<WelcomeButton
+					title={authButtons[1].title}
+					onClick={authButtons[1].onClick}
+				/>
+			</WelcomeAuthButtons>
+		</Welcome>
+	</FourImagesBg>
+);
