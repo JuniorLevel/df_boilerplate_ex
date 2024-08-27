@@ -46,12 +46,19 @@ module.exports = {
 			content: 'src/DiffClosedCardsPage/DiffClosedCardsPage.md',
 		},
 		{
-			name: 'OrdersFilterClosedPage',
-			content: 'src/OrdersFilterClosedPage/OrdersFilterClosedPage.md',
-		},
-		{
-			name: 'OrdersFilterOpenedPage',
-			content: 'src/OrdersFilterOpenedPage/OrdersFilterOpenedPage.md',
+			name: 'OrdersFilterPages',
+			description: 'Примеры страниц с открытыми и закрытыми фильтрами',
+			sections: [
+				{
+					name: 'OrdersFilterClosedPage',
+					content: 'src/OrdersFilterClosedPage/OrdersFilterClosedPage.md',
+				},
+				{
+					name: 'OrdersFilterOpenedPage',
+					content: 'src/OrdersFilterOpenedPage/OrdersFilterOpenedPage.md',
+				},
+			],
+			sectionDepth: 2,
 		},
 		{
 			name: 'OrderPage',
