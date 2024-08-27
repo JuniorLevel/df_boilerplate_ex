@@ -23,9 +23,9 @@
         <div class='clearfix'>
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">50% </span>
+                <span class="strong">100% </span>
                 <span class="quiet">Statements</span>
-                <span class='fraction'>3/6</span>
+                <span class='fraction'>2/2</span>
             </div>
         
             
@@ -37,16 +37,16 @@
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">12.5% </span>
+                <span class="strong">100% </span>
                 <span class="quiet">Functions</span>
-                <span class='fraction'>1/8</span>
+                <span class='fraction'>1/1</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">50% </span>
+                <span class="strong">100% </span>
                 <span class="quiet">Lines</span>
-                <span class='fraction'>3/6</span>
+                <span class='fraction'>2/2</span>
             </div>
         
             
@@ -61,7 +61,7 @@
             </div>
         </template>
     </div>
-    <div class='status-line medium'></div>
+    <div class='status-line high'></div>
     <pre><table class="coverage">
 <tr><td class="line-count quiet"><a name='L1'></a><a href='#L1'>1</a>
 <a name='L2'></a><a href='#L2'>2</a>
@@ -106,19 +106,7 @@
 <a name='L41'></a><a href='#L41'>41</a>
 <a name='L42'></a><a href='#L42'>42</a>
 <a name='L43'></a><a href='#L43'>43</a>
-<a name='L44'></a><a href='#L44'>44</a>
-<a name='L45'></a><a href='#L45'>45</a>
-<a name='L46'></a><a href='#L46'>46</a>
-<a name='L47'></a><a href='#L47'>47</a>
-<a name='L48'></a><a href='#L48'>48</a>
-<a name='L49'></a><a href='#L49'>49</a>
-<a name='L50'></a><a href='#L50'>50</a>
-<a name='L51'></a><a href='#L51'>51</a>
-<a name='L52'></a><a href='#L52'>52</a>
-<a name='L53'></a><a href='#L53'>53</a>
-<a name='L54'></a><a href='#L54'>54</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
+<a name='L44'></a><a href='#L44'>44</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -136,21 +124,13 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">4x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -171,57 +151,47 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">// @flow
 &nbsp;
+import React from 'react';
+import MediaQuery from 'react-responsive';
 import {
-	MediaQuery,
-	SingleImageBg,
+	WelcomeButton,
 	Welcome,
 	WelcomeAuthButtons,
-	WelcomeButton,
+	SingleImageBg,
 } from '@juniorlevel/df_boilerplate-library';
-import React from 'react';
+import { welcomeButtons, authButtons } from './data';
+import image from '../pictures/Image1.jpg';
 &nbsp;
-interface IWelcomePage5Props {
-	imageUrl: string;
-}
-&nbsp;
-export const WelcomePage5 = ({ imageUrl }: IWelcomePage5Props): React.Node =&gt; {
-	const buttons = [
-		{
-			id: 1,
-			title: 'email',
-			onClick: <span class="fstat-no" title="function not covered" >()</span> =&gt; <span class="cstat-no" title="statement not covered" >alert('email'),</span>
-		},
-		{
-			id: 2,
-			title: 'LogIn',
-			onClick: <span class="fstat-no" title="function not covered" >()</span> =&gt; <span class="cstat-no" title="statement not covered" >alert('LogIn'),</span>
-		},
-		{
-			id: 3,
-			title: 'CreateAccount',
-			onClick: <span class="fstat-no" title="function not covered" >()</span> =&gt; <span class="cstat-no" title="statement not covered" >alert('CreateAccount'),</span>
-		},
-	];
-&nbsp;
-	return (
-		&lt;SingleImageBg imageUrl={imageUrl}&gt;
-			&lt;Welcome buttons={buttons}&gt;
-				&lt;MediaQuery minWidth={361}&gt;
-					&lt;WelcomeAuthButtons&gt;
-						&lt;WelcomeButton title="G" onClick={<span class="fstat-no" title="function not covered" >()</span>: any =&gt; {}} /&gt;
-						&lt;WelcomeButton title="VK" onClick={<span class="fstat-no" title="function not covered" >()</span>: any =&gt; {}} /&gt;
-					&lt;/WelcomeAuthButtons&gt;
-				&lt;/MediaQuery&gt;
-				&lt;MediaQuery maxWidth={360}&gt;
-					&lt;WelcomeAuthButtons&gt;
-						&lt;WelcomeButton title="G" onClick={<span class="fstat-no" title="function not covered" >()</span>: any =&gt; {}} /&gt;
-						&lt;WelcomeButton title="VK" onClick={<span class="fstat-no" title="function not covered" >()</span>: any =&gt; {}} /&gt;
-					&lt;/WelcomeAuthButtons&gt;
-				&lt;/MediaQuery&gt;
-			&lt;/Welcome&gt;
-		&lt;/SingleImageBg&gt;
-	);
-};
+export const WelcomePage5 = (): React$MixedElement =&gt; (
+	&lt;SingleImageBg imageUrl={image}&gt;
+		&lt;Welcome buttons={welcomeButtons}&gt;
+			&lt;MediaQuery minWidth={361}&gt;
+				&lt;WelcomeAuthButtons&gt;
+					&lt;WelcomeButton
+						title={authButtons[0].title}
+						onClick={authButtons[0].onClick}
+					/&gt;
+					&lt;WelcomeButton
+						title={authButtons[1].title}
+						onClick={authButtons[1].onClick}
+					/&gt;
+				&lt;/WelcomeAuthButtons&gt;
+			&lt;/MediaQuery&gt;
+			&lt;MediaQuery maxWidth={360}&gt;
+				&lt;WelcomeAuthButtons&gt;
+					&lt;WelcomeButton
+						title={authButtons[0].title}
+						onClick={authButtons[0].onClick}
+					/&gt;
+					&lt;WelcomeButton
+						title={authButtons[1].title}
+						onClick={authButtons[1].onClick}
+					/&gt;
+				&lt;/WelcomeAuthButtons&gt;
+			&lt;/MediaQuery&gt;
+		&lt;/Welcome&gt;
+	&lt;/SingleImageBg&gt;
+);
 &nbsp;</pre></td></tr></table></pre>
 
                 <div class='push'></div><!-- for sticky footer -->
@@ -229,7 +199,7 @@ export const WelcomePage5 = ({ imageUrl }: IWelcomePage5Props): React.Node =&gt;
             <div class='footer quiet pad2 space-top1 center small'>
                 Code coverage generated by
                 <a href="https://istanbul.js.org/" target="_blank" rel="noopener noreferrer">istanbul</a>
-                at 2024-08-20T11:02:47.187Z
+                at 2024-08-27T05:30:59.683Z
             </div>
         <script src="../../prettify.js"></script>
         <script>
