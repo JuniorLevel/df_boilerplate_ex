@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1724788954575" clover="3.2.0">
-  <project timestamp="1724788954575" name="All files">
+<coverage generated="1725003442436" clover="3.2.0">
+  <project timestamp="1725003442436" name="All files">
     <metrics statements="159" coveredstatements="71" conditionals="0" coveredconditionals="0" methods="128" coveredmethods="16" elements="287" coveredelements="87" complexity="0" loc="159" ncloc="159" packages="16" files="32" classes="32"/>
     <package name="DiffClosedCardsPage">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
       <file name="DiffClosedCardsPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/DiffClosedCardsPage/DiffClosedCardsPage.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="17" count="1" type="stmt"/>
-        <line num="18" count="4" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/DiffClosedCardsPage/data.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
@@ -20,8 +20,8 @@
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
       <file name="DiffOpenedCardsPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/DiffOpenedCardsPage/DiffOpenedCardsPage.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="16" count="1" type="stmt"/>
-        <line num="17" count="4" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/DiffOpenedCardsPage/data.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
@@ -46,8 +46,8 @@
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
       <file name="OrderListPreviewPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrderListPreviewPage/OrderListPreviewPage.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="16" count="1" type="stmt"/>
-        <line num="17" count="4" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrderListPreviewPage/data.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
@@ -60,8 +60,8 @@
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
       <file name="OrderPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrderPage/OrderPage.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="14" count="1" type="stmt"/>
-        <line num="15" count="4" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
       </file>
       <file name="data.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrderPage/data.jsx">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
@@ -74,8 +74,8 @@
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
       <file name="OrdersFilterClosedPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrdersFilterClosedPage/OrdersFilterClosedPage.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="13" count="1" type="stmt"/>
-        <line num="14" count="4" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrdersFilterClosedPage/data.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
@@ -88,8 +88,8 @@
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
       <file name="OrdersFilterOpenedPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrdersFilterOpenedPage/OrdersFilterOpenedPage.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="11" count="1" type="stmt"/>
-        <line num="12" count="4" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrdersFilterOpenedPage/data.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
@@ -113,8 +113,8 @@
       <metrics statements="10" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="1"/>
       <file name="WelcomePage1.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage1/WelcomePage1.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="12" count="1" type="stmt"/>
-        <line num="13" count="4" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage1/data.js">
         <metrics statements="8" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
@@ -132,8 +132,8 @@
       <metrics statements="18" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="1"/>
       <file name="WelcomePage2.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage2/WelcomePage2.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="13" count="1" type="stmt"/>
-        <line num="14" count="4" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage2/data.js">
         <metrics statements="16" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="0"/>
@@ -159,8 +159,8 @@
       <metrics statements="18" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="1"/>
       <file name="WelcomePage3.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage3/WelcomePage3.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="13" count="1" type="stmt"/>
-        <line num="14" count="4" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage3/data.js">
         <metrics statements="16" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="0"/>
@@ -186,8 +186,8 @@
       <metrics statements="18" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="1"/>
       <file name="WelcomePage4.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage4/WelcomePage4.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="12" count="1" type="stmt"/>
-        <line num="13" count="4" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage4/data.js">
         <metrics statements="16" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="0"/>
@@ -213,8 +213,8 @@
       <metrics statements="9" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="1"/>
       <file name="WelcomePage5.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage5/WelcomePage5.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="14" count="1" type="stmt"/>
-        <line num="15" count="4" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage5/data.js">
         <metrics statements="7" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
@@ -231,8 +231,8 @@
       <metrics statements="17" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="1"/>
       <file name="WelcomePage6.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage6/WelcomePage6.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="14" count="1" type="stmt"/>
-        <line num="15" count="4" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage6/data.js">
         <metrics statements="15" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="0"/>
@@ -257,8 +257,8 @@
       <metrics statements="17" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="1"/>
       <file name="WelcomePage7.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage7/WelcomePage7.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="14" count="1" type="stmt"/>
-        <line num="15" count="4" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage7/data.js">
         <metrics statements="15" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="0"/>
@@ -283,8 +283,8 @@
       <metrics statements="17" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="1"/>
       <file name="WelcomePage8.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage8/WelcomePage8.jsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="13" count="1" type="stmt"/>
-        <line num="14" count="4" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/WelcomePages/WelcomePage8/data.js">
         <metrics statements="15" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="0"/>
