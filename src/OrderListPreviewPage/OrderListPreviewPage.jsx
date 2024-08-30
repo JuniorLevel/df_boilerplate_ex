@@ -2,18 +2,10 @@
 
 import React from 'react';
 import { Col, Pagination as OrdersPagination } from 'antd';
-import {
-	OrderListProvider,
-	Layout,
-	OrdersFilterClosed,
-	OrderListPreviewContainer,
-	OrderListContainer,
-	Order,
-	OrderListItem,
-} from '@juniorlevel/df_boilerplate-library';
+import { OrderListProvider, Layout, OrdersFilterClosed, OrderListPreviewContainer, OrderListContainer, Order, OrderListItem } from '@juniorlevel/df_boilerplate-library';
 import { sidebarButtons, filters, data } from './data';
 
-export const OrderListPreviewPage = (): React$MixedElement => (
+export const OrderListPreviewPage = (): React.Node => (
 	<OrderListProvider>
 		<Layout buttons={sidebarButtons} title="Caption" avatar={{ title: 'AV' }}>
 			<OrdersFilterClosed open={false} filters={filters} />

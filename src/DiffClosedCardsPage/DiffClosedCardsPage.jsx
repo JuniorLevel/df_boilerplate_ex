@@ -2,19 +2,10 @@
 
 import React from 'react';
 import { Row, Col, Pagination as OrdersPagination } from 'antd';
-import {
-	Layout,
-	OrdersFilterClosed,
-	OrderListProvider,
-	OrderListPreviewContainer,
-	Footer,
-	Order,
-	OrderListContainer,
-	OrderListItem,
-} from '@juniorlevel/df_boilerplate-library';
+import { Layout, OrdersFilterClosed, OrderListProvider, OrderListPreviewContainer, Footer, Order, OrderListContainer, OrderListItem } from '@juniorlevel/df_boilerplate-library';
 import { sidebarButtons, filters, data } from './data';
 
-export const DiffClosedCardsPage = (): React$MixedElement => (
+export const DiffClosedCardsPage = (): React.Node => (
 	<OrderListProvider>
 		<Layout buttons={sidebarButtons} title="Caption" avatar={{ title: 'AV' }}>
 			<Row>

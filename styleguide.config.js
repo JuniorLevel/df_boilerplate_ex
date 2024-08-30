@@ -11,10 +11,7 @@ module.exports = {
 	updateExample(props, exampleFilePath) {
 		const { settings = {}, lang } = props;
 		if (typeof settings.file === 'string') {
-			const filepath = path.resolve(
-				path.dirname(exampleFilePath),
-				settings.file
-			);
+			const filepath = path.resolve(path.dirname(exampleFilePath), settings.file);
 			const { file, ...restSettings } = settings;
 			const content = fs.readFileSync(filepath, 'utf8');
 			const updatedContent = content
@@ -37,6 +34,10 @@ module.exports = {
 		return props;
 	},
 	sections: [
+		{
+			name: 'RoutesPage',
+			content: 'src/RoutesPage/RoutesPage.md',
+		},
 		{
 			name: 'OrderListPreviewPage',
 			content: 'src/OrderListPreviewPage/OrderListPreviewPage.md',

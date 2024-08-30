@@ -2,16 +2,10 @@
 
 import React from 'react';
 import { Flex, Badge, Row, Col } from 'antd';
-import {
-	Layout,
-	OrderVersion,
-	OrderPreview,
-	OrderTabs,
-	OrderContainer,
-} from '@juniorlevel/df_boilerplate-library';
+import { Layout, OrderVersion, OrderPreview, OrderTabs, OrderContainer } from '@juniorlevel/df_boilerplate-library';
 import { filters, items, sidebarButtons } from './data';
 
-export const OrderPage = (): React$MixedElement => (
+export const OrderPage = (): React.Node => (
 	<Layout buttons={sidebarButtons} title="Caption" avatar={{ title: 'AV' }}>
 		<OrderTabs
 			items={[

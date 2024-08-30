@@ -1,16 +1,10 @@
 // @flow
 
 import React from 'react';
-import {
-	FiltersSearchListItem,
-	Layout,
-	OrdersFilterClosed,
-	OrderListProvider,
-	FiltersSearchListContainer,
-} from '@juniorlevel/df_boilerplate-library';
+import { FiltersSearchListItem, Layout, OrdersFilterClosed, OrderListProvider, FiltersSearchListContainer } from '@juniorlevel/df_boilerplate-library';
 import { data, filters, sidebarButtons } from './data';
 
-export const OrdersFilterClosedPage = (): React$MixedElement => (
+export const OrdersFilterClosedPage = (): React.Node => (
 	<OrderListProvider>
 		<Layout buttons={sidebarButtons} title="Caption" avatar={{ title: 'AV' }}>
 			<OrdersFilterClosed open={false} filters={filters} />
