@@ -38,9 +38,9 @@
 		"@babel/preset-react": "^7.24.7",
 		"@pmmmwh/react-refresh-webpack-plugin": "^0.5.15",
 		"@testing-library/jest-dom": "^6.5.0",
-		"@testing-library/react": "^16.0.0",
+		"@testing-library/react": "^16.0.1",
 		"@testing-library/user-event": "^14.5.2",
-		"@types/react": "^18.3.4",
+		"@types/react": "^18.3.5",
 		"babel-loader": "^9.1.3",
 		"babel-plugin-styled-components": "^2.1.4",
 		"babel-plugin-syntax-hermes-parser": "^0.23.1",
@@ -53,7 +53,7 @@
 		"eslint-plugin-react": "^7.35.0",
 		"eslint-plugin-react-hooks": "^4.6.2",
 		"eslint-webpack-plugin": "^4.2.0",
-		"flow-bin": "^0.244.0",
+		"flow-bin": "^0.245.0",
 		"fs": "^0.0.2",
 		"gh-pages": "^6.1.1",
 		"hermes-eslint": "^0.23.1",
@@ -69,7 +69,7 @@
 	},
 	"dependencies": {
 		"@juniorlevel/df_boilerplate-library": "^1.0.15",
-		"@tanstack/react-router": "^1.51.6",
+		"@tanstack/react-router": "^1.52.1",
 		"react": "^18.3.1",
 		"react-dom": "^18.3.1"
 	}

@@ -8,6 +8,7 @@ module.exports = {
 	title: 'Документация',
 	pagePerSection: true,
 	exampleMode: 'expand',
+
 	updateExample(props, exampleFilePath) {
 		const { settings = {}, lang } = props;
 		if (typeof settings.file === 'string') {
