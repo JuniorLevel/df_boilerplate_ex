@@ -1,5 +1,5 @@
 ```jsx
-import { useNavigate, createRootRoute, createRoute, createRouter, createHashHistory, createMemoryHistory, RouterProvider } from '@tanstack/react-router';
+import { useNavigate, createRootRoute, createRoute, createRouter, createMemoryHistory, RouterProvider } from '@tanstack/react-router';
 import React from 'react';
 import { RouterWrapper } from '../Wrapper';
 import { RoutesPage } from '../RoutesPage/RoutesPage';
@@ -61,7 +61,11 @@ const DialogRoute = createRoute({
 
 const routeTree = rootRoute.addChildren([IndexRoute, DialogRoute]);
 
-const router = createRouter({ routeTree });
+const memoryHistory = createMemoryHistory({
+	initialEntries: ['/'],
+});
+
+const router = createRouter({ routeTree, history: memoryHistory });
 
 <RouterWrapper router={router} />;
 ```
