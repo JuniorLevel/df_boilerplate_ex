@@ -36,6 +36,10 @@ module.exports = {
 	},
 	sections: [
 		{
+			name: 'SingleRoutePage',
+			content: 'src/SingleRoutePage/SingleRoutePage.md',
+		},
+		{
 			name: 'RoutesPage',
 			content: 'src/RoutesPage/RoutesPage.md',
 		},
