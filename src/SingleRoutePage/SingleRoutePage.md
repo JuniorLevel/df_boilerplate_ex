@@ -13,6 +13,14 @@ const NavigationButtons = ({ navigate }) => (
 	</>
 );
 
+const GoToBackButton = ({ navigate, history }) => (
+	<>
+		<button type="button" onClick={() => history.go(-1)}>
+			Go back
+		</button>
+	</>
+);
+
 const mobileView = false;
 
 const rootRoute = createRootRoute({
@@ -40,7 +48,6 @@ const IndexRoute = createRoute({
 				<ParentComponent>
 					This is parent component with
 					<NavigationButtons />
-					<OutletComponent />
 				</ParentComponent>
 			) : (
 				<div />
@@ -53,9 +60,19 @@ const DialogRoute = createRoute({
 	getParentRoute: () => rootRoute,
 	path: '/dialog',
 	component: () => (
-		<ParentComponent>
-			<>{mobileView ? <div>mobile dialog</div> : <div>dialog window</div>}</>
-		</ParentComponent>
+		<>
+			{mobileView ? (
+				<ParentComponent>
+					mobile dialog
+					<GoToBackButton />
+				</ParentComponent>
+			) : (
+				<ParentComponent>
+					dialog window
+					<GoToBackButton />
+				</ParentComponent>
+			)}
+		</>
 	),
 });
 
