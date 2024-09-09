@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1725560878505" clover="3.2.0">
-  <project timestamp="1725560878505" name="All files">
+<coverage generated="1725866227456" clover="3.2.0">
+  <project timestamp="1725866227457" name="All files">
     <metrics statements="159" coveredstatements="71" conditionals="0" coveredconditionals="0" methods="128" coveredmethods="16" elements="287" coveredelements="87" complexity="0" loc="159" ncloc="159" packages="16" files="32" classes="32"/>
     <package name="DiffClosedCardsPage">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
