@@ -9,7 +9,7 @@ export const DiffOpenedCardsPage = (): React.Node => (
 	<Layout buttons={sidebarButtons} title="Caption" avatar={{ title: 'AV' }}>
 		<Row>
 			<Col span={12}>
-				<OrdersFilterOpened open filters={filters} />
+				<OrdersFilterOpened open dialog={false} filters={filters} />
 				<OrderListPreviewContainer height={555}>
 					<Col span={12}>
 						<OrderListContainer>
@@ -29,7 +29,7 @@ export const DiffOpenedCardsPage = (): React.Node => (
 				</OrderListPreviewContainer>
 			</Col>
 			<Col span={12}>
-				<OrdersFilterOpened open filters={filters} />
+				<OrdersFilterOpened open dialog={false} filters={filters} />
 				<OrderListPreviewContainer height={555}>
 					<Col span={12}>
 						<OrderListContainer>

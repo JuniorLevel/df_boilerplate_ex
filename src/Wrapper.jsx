@@ -5,13 +5,35 @@
 import React from 'react';
 import { ThemeWrapper } from '@juniorlevel/df_boilerplate-library';
 import { RouterProvider } from '@tanstack/react-router';
+import { useErrorBoundary, ErrorBoundary } from 'react-error-boundary';
 
 interface IWrapperProps {
 	children: React.Node;
 }
 
-const Wrapper = ({ children }: IWrapperProps): React.Node => <ThemeWrapper>{children}</ThemeWrapper>;
+const Fallback = (): React.Node => {
+	const { resetBoundary } = useErrorBoundary();
 
+	return (
+		<div>
+			<p style={{ marginBottom: '10px' }}>Не меняйте данный props на этой странице, так как здесь нет контекста роутинга!</p>
+			<button type="button" onClick={resetBoundary}>
+				Обновить страницу
+			</button>
+		</div>
+	);
+};
+
+const Wrapper = ({ children }: IWrapperProps): React.Node => (
+	<ErrorBoundary
+		fallback={<Fallback />}
+		onReset={() => {
+			window.location.reload();
+		}}
+	>
+		<ThemeWrapper>{children}</ThemeWrapper>
+	</ErrorBoundary>
+);
 export default Wrapper;
 
 interface IRouteWrapperProps {

@@ -2,15 +2,15 @@
 
 import React from 'react';
 import { Row, Col, Pagination as OrdersPagination } from 'antd';
-import { Layout, OrdersFilterClosed, OrderListProvider, OrderListPreviewContainer, Footer, Order, OrderListContainer, OrderListItem } from '@juniorlevel/df_boilerplate-library';
+import { Layout, OrdersFilterClosed, OrdersFilterProvider, OrderListPreviewContainer, Footer, Order, OrderListContainer, OrderListItem } from '@juniorlevel/df_boilerplate-library';
 import { sidebarButtons, filters, data } from './data';
 
 export const DiffClosedCardsPage = (): React.Node => (
-	<OrderListProvider>
+	<OrdersFilterProvider>
 		<Layout buttons={sidebarButtons} title="Caption" avatar={{ title: 'AV' }}>
 			<Row>
 				<Col span={12}>
-					<OrdersFilterClosed open={false} filters={filters} />
+					<OrdersFilterClosed open={false} dialog={false} filters={filters} />
 					<OrderListPreviewContainer height={280}>
 						<Col span={12}>
 							<OrderListContainer>
@@ -30,7 +30,7 @@ export const DiffClosedCardsPage = (): React.Node => (
 					</OrderListPreviewContainer>
 				</Col>
 				<Col span={12}>
-					<OrdersFilterClosed open={false} filters={filters} />
+					<OrdersFilterClosed open={false} dialog={false} filters={filters} />
 					<OrderListPreviewContainer height={280}>
 						<Col span={12}>
 							<OrderListContainer>
@@ -52,5 +52,5 @@ export const DiffClosedCardsPage = (): React.Node => (
 			</Row>
 			<Footer />
 		</Layout>
-	</OrderListProvider>
+	</OrdersFilterProvider>
 );

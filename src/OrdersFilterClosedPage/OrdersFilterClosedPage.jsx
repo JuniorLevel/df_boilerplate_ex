@@ -1,13 +1,13 @@
 // @flow
 
 import React from 'react';
-import { FiltersSearchListItem, Layout, OrdersFilterClosed, OrderListProvider, FiltersSearchListContainer } from '@juniorlevel/df_boilerplate-library';
+import { FiltersSearchListItem, Layout, OrdersFilterClosed, OrdersFilterProvider, FiltersSearchListContainer } from '@juniorlevel/df_boilerplate-library';
 import { data, filters, sidebarButtons } from './data';
 
 export const OrdersFilterClosedPage = (): React.Node => (
-	<OrderListProvider>
+	<OrdersFilterProvider>
 		<Layout buttons={sidebarButtons} title="Caption" avatar={{ title: 'AV' }}>
-			<OrdersFilterClosed open={false} filters={filters} />
+			<OrdersFilterClosed open={false} dialog={false} filters={filters} />
 			<FiltersSearchListContainer>
 				<FiltersSearchListItem key={data[0].id} listData={data[0]} />
 				<FiltersSearchListItem key={data[1].id} listData={data[1]} />
@@ -17,5 +17,5 @@ export const OrdersFilterClosedPage = (): React.Node => (
 				<FiltersSearchListItem key={6} listData={null} />
 			</FiltersSearchListContainer>
 		</Layout>
-	</OrderListProvider>
+	</OrdersFilterProvider>
 );

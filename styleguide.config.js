@@ -67,6 +67,25 @@ module.exports = {
 			sectionDepth: 2,
 		},
 		{
+			name: 'OrdersFilterWithDialogPages',
+			description: 'Примеры страниц с диалогом',
+			sections: [
+				{
+					name: 'OrdersFilterClosedWithDialogPage',
+					content: 'src/OrdersFilterClosedWithDialogPage/OrdersFilterClosedWithDialogPage.md',
+				},
+				{
+					name: 'OrdersFilterOpenedWithDialogPage',
+					content: 'src/OrdersFilterOpenedWithDialogPage/OrdersFilterOpenedWithDialogPage.md',
+				},
+				{
+					name: 'DiffOpenedCardsWithDialogPage',
+					content: 'src/DiffOpenedCardsWithDialogPage/DiffOpenedCardsWithDialogPage.md',
+				},
+			],
+			sectionDepth: 3,
+		},
+		{
 			name: 'OrderPage',
 			content: 'src/OrderPage/OrderPage.md',
 		},

@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
+exports[`OrdersFilterOpenedWithDialogPage matches the snapshot desktop 1`] = `
 <div>
   <div
     class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-qnu6hi"
@@ -20,7 +20,8 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
             style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
           >
             <div
-              class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
+              class="ant-col ant-col-12 css-qnu6hi"
+              style="padding-left: 8px; padding-right: 8px;"
             >
               <div
                 style="height: 97%; overflow: auto; overflow-x: hidden; margin-bottom: 5px;"
@@ -1002,7 +1003,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                 </div>
               </div>
               <ul
-                class="ant-pagination css-dev-only-do-not-override-qnu6hi"
+                class="ant-pagination css-qnu6hi"
               >
                 <li
                   aria-disabled="true"
@@ -1126,7 +1127,8 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
               </ul>
             </div>
             <div
-              class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
+              class="ant-col ant-col-12 css-qnu6hi"
+              style="padding-left: 8px; padding-right: 8px;"
             >
               <div
                 class="ant-flex css-qnu6hi ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
@@ -1142,10 +1144,11 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
       </main>
     </div>
   </div>
+  <div />
 </div>
 `;
 
-exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
+exports[`OrdersFilterOpenedWithDialogPage matches the snapshot laptop 1`] = `
 <div>
   <div
     class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-qnu6hi"
@@ -1165,7 +1168,8 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
             style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
           >
             <div
-              class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
+              class="ant-col ant-col-12 css-qnu6hi"
+              style="padding-left: 8px; padding-right: 8px;"
             >
               <div
                 style="height: 97%; overflow: auto; overflow-x: hidden; margin-bottom: 5px;"
@@ -2147,7 +2151,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                 </div>
               </div>
               <ul
-                class="ant-pagination css-dev-only-do-not-override-qnu6hi"
+                class="ant-pagination css-qnu6hi"
               >
                 <li
                   aria-disabled="true"
@@ -2271,7 +2275,8 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
               </ul>
             </div>
             <div
-              class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
+              class="ant-col ant-col-12 css-qnu6hi"
+              style="padding-left: 8px; padding-right: 8px;"
             >
               <div
                 class="ant-flex css-qnu6hi ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
@@ -2287,10 +2292,11 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
       </main>
     </div>
   </div>
+  <div />
 </div>
 `;
 
-exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
+exports[`OrdersFilterOpenedWithDialogPage matches the snapshot mobile 1`] = `
 <div>
   <div
     class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-qnu6hi"
@@ -2310,7 +2316,8 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
             style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
           >
             <div
-              class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
+              class="ant-col ant-col-12 css-qnu6hi"
+              style="padding-left: 8px; padding-right: 8px;"
             >
               <div
                 style="height: 97%; overflow: auto; overflow-x: hidden; margin-bottom: 5px;"
@@ -3292,7 +3299,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                 </div>
               </div>
               <ul
-                class="ant-pagination css-dev-only-do-not-override-qnu6hi"
+                class="ant-pagination css-qnu6hi"
               >
                 <li
                   aria-disabled="true"
@@ -3416,7 +3423,8 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
               </ul>
             </div>
             <div
-              class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
+              class="ant-col ant-col-12 css-qnu6hi"
+              style="padding-left: 8px; padding-right: 8px;"
             >
               <div
                 class="ant-flex css-qnu6hi ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
@@ -3432,5 +3440,6 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
       </main>
     </div>
   </div>
+  <div />
 </div>
 `;

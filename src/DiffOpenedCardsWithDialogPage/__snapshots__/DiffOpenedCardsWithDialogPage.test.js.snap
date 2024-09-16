@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`DiffClosedCardsPage matches the snapshot desktop 1`] = `
+exports[`OrdersFilterOpenedWithDialogPage matches the snapshot desktop 1`] = `
 <div>
   <div
     class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-qnu6hi"
@@ -18,8 +18,8 @@ exports[`DiffClosedCardsPage matches the snapshot desktop 1`] = `
             class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
           >
             <div
-              class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 dtdUFt"
-              height="280"
+              class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 ipxOnm"
+              height="555"
             >
               <div
                 class="ant-row css-qnu6hi"
@@ -1373,8 +1373,8 @@ exports[`DiffClosedCardsPage matches the snapshot desktop 1`] = `
             class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
           >
             <div
-              class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 dtdUFt"
-              height="280"
+              class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 ipxOnm"
+              height="555"
             >
               <div
                 class="ant-row css-qnu6hi"
@@ -2738,10 +2738,11 @@ exports[`DiffClosedCardsPage matches the snapshot desktop 1`] = `
       </main>
     </div>
   </div>
+  <div />
 </div>
 `;
 
-exports[`DiffClosedCardsPage matches the snapshot laptop 1`] = `
+exports[`OrdersFilterOpenedWithDialogPage matches the snapshot laptop 1`] = `
 <div>
   <div
     class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-qnu6hi"
@@ -2759,8 +2760,8 @@ exports[`DiffClosedCardsPage matches the snapshot laptop 1`] = `
             class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
           >
             <div
-              class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 dtdUFt"
-              height="280"
+              class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 ipxOnm"
+              height="555"
             >
               <div
                 class="ant-row css-qnu6hi"
@@ -4114,8 +4115,8 @@ exports[`DiffClosedCardsPage matches the snapshot laptop 1`] = `
             class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
           >
             <div
-              class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 dtdUFt"
-              height="280"
+              class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 ipxOnm"
+              height="555"
             >
               <div
                 class="ant-row css-qnu6hi"
@@ -5479,10 +5480,11 @@ exports[`DiffClosedCardsPage matches the snapshot laptop 1`] = `
       </main>
     </div>
   </div>
+  <div />
 </div>
 `;
 
-exports[`DiffClosedCardsPage matches the snapshot mobile 1`] = `
+exports[`OrdersFilterOpenedWithDialogPage matches the snapshot mobile 1`] = `
 <div>
   <div
     class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-qnu6hi"
@@ -5500,8 +5502,8 @@ exports[`DiffClosedCardsPage matches the snapshot mobile 1`] = `
             class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
           >
             <div
-              class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 dtdUFt"
-              height="280"
+              class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 ipxOnm"
+              height="555"
             >
               <div
                 class="ant-row css-qnu6hi"
@@ -6855,8 +6857,8 @@ exports[`DiffClosedCardsPage matches the snapshot mobile 1`] = `
             class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
           >
             <div
-              class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 dtdUFt"
-              height="280"
+              class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 ipxOnm"
+              height="555"
             >
               <div
                 class="ant-row css-qnu6hi"
@@ -8220,5 +8222,6 @@ exports[`DiffClosedCardsPage matches the snapshot mobile 1`] = `
       </main>
     </div>
   </div>
+  <div />
 </div>
 `;

@@ -18,6 +18,9 @@ import { WelcomePage5 } from './WelcomePages/WelcomePage5/WelcomePage5';
 import { WelcomePage6 } from './WelcomePages/WelcomePage6/WelcomePage6';
 import { WelcomePage7 } from './WelcomePages/WelcomePage7/WelcomePage7';
 import { WelcomePage8 } from './WelcomePages/WelcomePage8/WelcomePage8';
+import { OrdersFilterOpenedWithDialogPage } from './OrdersFilterOpenedWithDialogPage/OrdersFilterOpenedWithDialogPage';
+import { OrdersFilterClosedWithDialogPage } from './OrdersFilterClosedWithDialogPage/OrdersFilterClosedWithDialogPage';
+import { DiffOpenedCardsWithDialogPage } from './DiffOpenedCardsWithDialogPage/DiffOpenedCardsWithDialogPage';
 
 const routes = [
 	{ id: 1, name: 'HomePage', component: HomePage, path: '/homePage' },
@@ -41,6 +44,9 @@ const routes = [
 	{ id: 14, name: 'WelcomePage6', component: WelcomePage6, path: '/welcomePage6' },
 	{ id: 15, name: 'WelcomePage7', component: WelcomePage7, path: '/welcomePage7' },
 	{ id: 16, name: 'WelcomePage8', component: WelcomePage8, path: '/welcomePage8' },
+	{ id: 17, name: 'OrdersFilterOpenedWithDialogPage', component: OrdersFilterOpenedWithDialogPage, path: '/ordersFilterOpenedWithDialogPage' },
+	{ id: 18, name: 'OrdersFilterClosedWithDialogPage', component: OrdersFilterClosedWithDialogPage, path: '/ordersFilterClosedWithDialogPage' },
+	{ id: 19, name: 'DiffOpenedCardsWithDialogPage', component: DiffOpenedCardsWithDialogPage, path: '/diffOpenedCardsWithDialogPage' },
 ];
 
 const rootRoute = createRootRoute({

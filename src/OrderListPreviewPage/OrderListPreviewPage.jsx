@@ -2,13 +2,13 @@
 
 import React from 'react';
 import { Col, Pagination as OrdersPagination } from 'antd';
-import { OrderListProvider, Layout, OrdersFilterClosed, OrderListPreviewContainer, OrderListContainer, Order, OrderListItem } from '@juniorlevel/df_boilerplate-library';
+import { OrdersFilterProvider, Layout, OrdersFilterClosed, OrderListPreviewContainer, OrderListContainer, Order, OrderListItem } from '@juniorlevel/df_boilerplate-library';
 import { sidebarButtons, filters, data } from './data';
 
 export const OrderListPreviewPage = (): React.Node => (
-	<OrderListProvider>
+	<OrdersFilterProvider>
 		<Layout buttons={sidebarButtons} title="Caption" avatar={{ title: 'AV' }}>
-			<OrdersFilterClosed open={false} filters={filters} />
+			<OrdersFilterClosed open={false} dialog={false} filters={filters} />
 			<OrderListPreviewContainer height={160}>
 				<Col span={12}>
 					<OrderListContainer>
@@ -27,5 +27,5 @@ export const OrderListPreviewPage = (): React.Node => (
 				</Col>
 			</OrderListPreviewContainer>
 		</Layout>
-	</OrderListProvider>
+	</OrdersFilterProvider>
 );
