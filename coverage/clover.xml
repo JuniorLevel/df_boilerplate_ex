@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1726382194465" clover="3.2.0">
-  <project timestamp="1726382194466" name="All files">
-    <metrics statements="159" coveredstatements="71" conditionals="0" coveredconditionals="0" methods="128" coveredmethods="16" elements="287" coveredelements="87" complexity="0" loc="159" ncloc="159" packages="16" files="32" classes="32"/>
+<coverage generated="1726474820379" clover="3.2.0">
+  <project timestamp="1726474820380" name="All files">
+    <metrics statements="206" coveredstatements="114" conditionals="6" coveredconditionals="4" methods="155" coveredmethods="31" elements="367" coveredelements="149" complexity="0" loc="206" ncloc="206" packages="19" files="38" classes="38"/>
     <package name="DiffClosedCardsPage">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
       <file name="DiffClosedCardsPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/DiffClosedCardsPage/DiffClosedCardsPage.jsx">
@@ -24,6 +24,30 @@
         <line num="9" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/DiffOpenedCardsPage/data.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="334" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="DiffOpenedCardsWithDialogPage">
+      <metrics statements="15" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="5"/>
+      <file name="DiffOpenedCardsWithDialogPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/DiffOpenedCardsWithDialogPage/DiffOpenedCardsWithDialogPage.jsx">
+        <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="78" count="4" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="83" count="1" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="92" count="1" type="stmt"/>
+        <line num="96" count="1" type="stmt"/>
+        <line num="98" count="5" type="stmt"/>
+      </file>
+      <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/DiffOpenedCardsWithDialogPage/data.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="19" count="1" type="stmt"/>
@@ -84,6 +108,30 @@
         <line num="166" count="1" type="stmt"/>
       </file>
     </package>
+    <package name="OrdersFilterClosedWithDialogPage">
+      <metrics statements="15" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="5"/>
+      <file name="OrdersFilterClosedWithDialogPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrdersFilterClosedWithDialogPage/OrdersFilterClosedWithDialogPage.jsx">
+        <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="53" count="4" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="73" count="5" type="stmt"/>
+      </file>
+      <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrdersFilterClosedWithDialogPage/data.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="334" count="1" type="stmt"/>
+      </file>
+    </package>
     <package name="OrdersFilterOpenedPage">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
       <file name="OrdersFilterOpenedPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrdersFilterOpenedPage/OrdersFilterOpenedPage.jsx">
@@ -92,6 +140,32 @@
         <line num="8" count="4" type="stmt"/>
       </file>
       <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrdersFilterOpenedPage/data.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="OrdersFilterOpenedWithDialogPage">
+      <metrics statements="17" coveredstatements="15" conditionals="6" coveredconditionals="4" methods="9" coveredmethods="5"/>
+      <file name="OrdersFilterOpenedWithDialogPage.jsx" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrdersFilterOpenedWithDialogPage/OrdersFilterOpenedWithDialogPage.jsx">
+        <metrics statements="15" coveredstatements="13" conditionals="6" coveredconditionals="4" methods="6" coveredmethods="5"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="65" count="5" type="stmt"/>
+      </file>
+      <file name="data.js" path="/home/whoami/frontend/commerce-projects/df_boilerplate_ex/src/OrdersFilterOpenedWithDialogPage/data.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="19" count="1" type="stmt"/>
