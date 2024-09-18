@@ -23,30 +23,40 @@ export const GoToBackButton = () => {
 	);
 };
 
-export const ParentComponent = ({ children }: React.Node): React.Node => (
+interface IParentComponentProps {
+	children: React.Node;
+}
+
+export const ParentComponent = ({ children }: IParentComponentProps): React.Node => (
 	<>
 		{children}
 		<NavigateButton />
 	</>
 );
 
-export const DialogComponent = ({ children }: { children: React.Node }): React.Node => (
+interface IDialogComponentProps {
+	children: React.Node;
+}
+
+export const DialogComponent = ({ children }: IDialogComponentProps): React.Node => (
 	<>
 		{children}
 		<GoToBackButton />
 	</>
 );
 
+type TViewMode = 'mobile' | 'desktop';
+
 interface ICommonRoutingComponentProps {
 	children: React.Node;
-	viewMode: boolean;
+	viewMode: TViewMode;
 }
 
 export const CommonRoutingComponent = ({ children, viewMode }: ICommonRoutingComponentProps): React.Node => {
 	const rootRoute = createRootRoute({
 		component: () => (
 			<div>
-				{viewMode ? (
+				{viewMode === 'mobile' ? (
 					<Outlet />
 				) : (
 					<>
@@ -61,14 +71,14 @@ export const CommonRoutingComponent = ({ children, viewMode }: ICommonRoutingCom
 	const IndexRoute = createRoute({
 		getParentRoute: () => rootRoute,
 		path: '/',
-		component: () => (viewMode ? children : <div />),
+		component: () => (viewMode === 'mobile' ? children : <div />),
 	});
 
 	const DialogRoute = createRoute({
 		getParentRoute: () => rootRoute,
 		path: '/dialog',
 		component: () =>
-			viewMode ? (
+			viewMode === 'mobile' ? (
 				<DialogComponent>
 					<p>mobile dialog</p>
 				</DialogComponent>
