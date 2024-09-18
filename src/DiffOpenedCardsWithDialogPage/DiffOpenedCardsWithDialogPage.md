@@ -14,8 +14,7 @@ import {
 	OrdersFilterProvider,
 } from '@juniorlevel/df_boilerplate-library';
 import { sidebarButtons, data, filters } from './data';
-import { RouterWrapper } from '../Wrapper';
-import { OutletComponent } from '../SingleRoutePage/SingleRoutePage';
+import { RouterWrapper, OutletComponent } from '../Wrapper';
 
 const rootRoute = createRootRoute({
 	component: function RootComponent() {

@@ -4,8 +4,7 @@ import { createRootRoute, createRoute, createRouter, createMemoryHistory, Router
 import { useMediaQuery } from 'react-responsive';
 import { OrdersFilterMobileDialog, OrdersFilterOpened, Layout, OrdersFilterProvider, OrdersFilterDesktopDialog } from '@juniorlevel/df_boilerplate-library';
 import { sidebarButtons, filters } from './data';
-import { RouterWrapper } from '../Wrapper';
-import { OutletComponent } from '../SingleRoutePage/SingleRoutePage';
+import { RouterWrapper, OutletComponent } from '../Wrapper';
 
 const rootRoute = createRootRoute({
 	component: function RootComponent() {

@@ -4,7 +4,7 @@
 
 import React from 'react';
 import { ThemeWrapper } from '@juniorlevel/df_boilerplate-library';
-import { RouterProvider } from '@tanstack/react-router';
+import { RouterProvider, Outlet } from '@tanstack/react-router';
 import { useErrorBoundary, ErrorBoundary } from 'react-error-boundary';
 
 interface IWrapperProps {
@@ -41,3 +41,5 @@ interface IRouteWrapperProps {
 }
 
 export const RouterWrapper = ({ router }: IRouteWrapperProps): React.Node => <RouterProvider router={router} />;
+
+export const OutletComponent = (): React.Node => <Outlet />;
