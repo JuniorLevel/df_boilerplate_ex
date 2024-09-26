@@ -7,6 +7,13 @@ module.exports = {
 		ecmaVersion: 'latest',
 		sourceType: 'module',
 	},
+	settings: {
+		'import/resolver': {
+			alias: {
+				map: [['@', './src']],
+			},
+		},
+	},
 	extends: [
 		'plugin:react/recommended',
 		'airbnb',

@@ -3,34 +3,34 @@
 exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
 <div>
   <div
-    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-qnu6hi"
+    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-5wsri9"
   >
     <div
-      class="ant-layout css-qnu6hi"
+      class="ant-layout css-5wsri9"
     >
       <main
-        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-qnu6hi"
+        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-5wsri9"
       >
         <div
           class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 iXAtvE"
           height="160"
         >
           <div
-            class="ant-row css-qnu6hi"
+            class="ant-row css-5wsri9"
             style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
           >
             <div
-              class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
+              class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
             >
               <div
                 style="height: 97%; overflow: auto; overflow-x: hidden; margin-bottom: 5px;"
               >
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -38,7 +38,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                         class="StatusContainerstyles__StatusUpdatedDiv-sc-1g03p6q-2 kaJTWH"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -54,11 +54,11 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCloseCircle-sc-1g03p6q-3 GsCjO"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCloseCircle-sc-1g03p6q-3 GsCjO"
                             type="button"
                           >
                             <span
@@ -87,7 +87,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </span>
                           </button>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCheckCircle-sc-1g03p6q-4 cxjSyJ"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCheckCircle-sc-1g03p6q-4 cxjSyJ"
                             type="button"
                           >
                             <span
@@ -118,7 +118,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </span>
                           </button>
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -141,7 +141,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -174,7 +174,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -182,7 +182,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -198,11 +198,11 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -225,7 +225,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -262,11 +262,11 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -274,7 +274,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                         class="StatusContainerstyles__StatusChangedDiv-sc-1g03p6q-1 jJnPEk"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                           style="border: 1px solid black; padding: 10px;"
                         >
                           Assigned
@@ -285,7 +285,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -300,7 +300,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </div>
                           </div>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px; position: absolute; right: 0px;"
                             type="button"
                           >
@@ -333,7 +333,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -341,7 +341,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -357,11 +357,11 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -384,7 +384,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -421,11 +421,11 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -433,7 +433,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                         class="StatusContainerstyles__StatusChangedDiv-sc-1g03p6q-1 jJnPEk"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                           style="border: 1px solid black; padding: 10px;"
                         >
                           Assigned
@@ -444,7 +444,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -459,7 +459,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </div>
                           </div>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px; position: absolute; right: 0px;"
                             type="button"
                           >
@@ -492,7 +492,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -500,7 +500,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -516,11 +516,11 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -543,7 +543,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -580,11 +580,11 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -592,7 +592,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                         class="StatusContainerstyles__StatusChangedDiv-sc-1g03p6q-1 jJnPEk"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                           style="border: 1px solid black; padding: 10px;"
                         >
                           Assigned
@@ -603,7 +603,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -618,7 +618,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </div>
                           </div>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px; position: absolute; right: 0px;"
                             type="button"
                           >
@@ -651,7 +651,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -659,7 +659,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -675,11 +675,11 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -702,7 +702,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -739,11 +739,11 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -751,7 +751,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                         class="StatusContainerstyles__StatusUpdatedDiv-sc-1g03p6q-2 kaJTWH"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -767,11 +767,11 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCloseCircle-sc-1g03p6q-3 GsCjO"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCloseCircle-sc-1g03p6q-3 GsCjO"
                             type="button"
                           >
                             <span
@@ -800,7 +800,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </span>
                           </button>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCheckCircle-sc-1g03p6q-4 cxjSyJ"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCheckCircle-sc-1g03p6q-4 cxjSyJ"
                             type="button"
                           >
                             <span
@@ -831,7 +831,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </span>
                           </button>
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -854,7 +854,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -887,7 +887,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -895,7 +895,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -911,11 +911,11 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -938,7 +938,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -975,7 +975,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
@@ -988,7 +988,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
@@ -1002,7 +1002,7 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
                 </div>
               </div>
               <ul
-                class="ant-pagination css-dev-only-do-not-override-qnu6hi"
+                class="ant-pagination css-dev-only-do-not-override-5wsri9"
               >
                 <li
                   aria-disabled="true"
@@ -1126,10 +1126,10 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
               </ul>
             </div>
             <div
-              class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
+              class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
             >
               <div
-                class="ant-flex css-qnu6hi ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
+                class="ant-flex css-5wsri9 ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
                 style="height: 100%; border: 1px solid black; font-size: 2rem;"
               >
                 <div>
@@ -1148,34 +1148,34 @@ exports[`OrderListPreviewPage matches the snapshot desktop 1`] = `
 exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
 <div>
   <div
-    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-qnu6hi"
+    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-5wsri9"
   >
     <div
-      class="ant-layout css-qnu6hi"
+      class="ant-layout css-5wsri9"
     >
       <main
-        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-qnu6hi"
+        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-5wsri9"
       >
         <div
           class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 iXAtvE"
           height="160"
         >
           <div
-            class="ant-row css-qnu6hi"
+            class="ant-row css-5wsri9"
             style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
           >
             <div
-              class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
+              class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
             >
               <div
                 style="height: 97%; overflow: auto; overflow-x: hidden; margin-bottom: 5px;"
               >
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -1183,7 +1183,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                         class="StatusContainerstyles__StatusUpdatedDiv-sc-1g03p6q-2 kaJTWH"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -1199,11 +1199,11 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCloseCircle-sc-1g03p6q-3 GsCjO"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCloseCircle-sc-1g03p6q-3 GsCjO"
                             type="button"
                           >
                             <span
@@ -1232,7 +1232,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </span>
                           </button>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCheckCircle-sc-1g03p6q-4 cxjSyJ"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCheckCircle-sc-1g03p6q-4 cxjSyJ"
                             type="button"
                           >
                             <span
@@ -1263,7 +1263,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </span>
                           </button>
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -1286,7 +1286,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -1319,7 +1319,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -1327,7 +1327,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -1343,11 +1343,11 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -1370,7 +1370,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -1407,11 +1407,11 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -1419,7 +1419,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                         class="StatusContainerstyles__StatusChangedDiv-sc-1g03p6q-1 jJnPEk"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                           style="border: 1px solid black; padding: 10px;"
                         >
                           Assigned
@@ -1430,7 +1430,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -1445,7 +1445,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </div>
                           </div>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px; position: absolute; right: 0px;"
                             type="button"
                           >
@@ -1478,7 +1478,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -1486,7 +1486,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -1502,11 +1502,11 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -1529,7 +1529,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -1566,11 +1566,11 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -1578,7 +1578,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                         class="StatusContainerstyles__StatusChangedDiv-sc-1g03p6q-1 jJnPEk"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                           style="border: 1px solid black; padding: 10px;"
                         >
                           Assigned
@@ -1589,7 +1589,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -1604,7 +1604,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </div>
                           </div>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px; position: absolute; right: 0px;"
                             type="button"
                           >
@@ -1637,7 +1637,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -1645,7 +1645,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -1661,11 +1661,11 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -1688,7 +1688,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -1725,11 +1725,11 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -1737,7 +1737,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                         class="StatusContainerstyles__StatusChangedDiv-sc-1g03p6q-1 jJnPEk"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                           style="border: 1px solid black; padding: 10px;"
                         >
                           Assigned
@@ -1748,7 +1748,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -1763,7 +1763,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </div>
                           </div>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px; position: absolute; right: 0px;"
                             type="button"
                           >
@@ -1796,7 +1796,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -1804,7 +1804,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -1820,11 +1820,11 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -1847,7 +1847,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -1884,11 +1884,11 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -1896,7 +1896,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                         class="StatusContainerstyles__StatusUpdatedDiv-sc-1g03p6q-2 kaJTWH"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -1912,11 +1912,11 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCloseCircle-sc-1g03p6q-3 GsCjO"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCloseCircle-sc-1g03p6q-3 GsCjO"
                             type="button"
                           >
                             <span
@@ -1945,7 +1945,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </span>
                           </button>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCheckCircle-sc-1g03p6q-4 cxjSyJ"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCheckCircle-sc-1g03p6q-4 cxjSyJ"
                             type="button"
                           >
                             <span
@@ -1976,7 +1976,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </span>
                           </button>
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -1999,7 +1999,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -2032,7 +2032,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -2040,7 +2040,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -2056,11 +2056,11 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -2083,7 +2083,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -2120,7 +2120,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
@@ -2133,7 +2133,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
@@ -2147,7 +2147,7 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
                 </div>
               </div>
               <ul
-                class="ant-pagination css-dev-only-do-not-override-qnu6hi"
+                class="ant-pagination css-dev-only-do-not-override-5wsri9"
               >
                 <li
                   aria-disabled="true"
@@ -2271,10 +2271,10 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
               </ul>
             </div>
             <div
-              class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
+              class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
             >
               <div
-                class="ant-flex css-qnu6hi ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
+                class="ant-flex css-5wsri9 ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
                 style="height: 100%; border: 1px solid black; font-size: 2rem;"
               >
                 <div>
@@ -2293,34 +2293,34 @@ exports[`OrderListPreviewPage matches the snapshot laptop 1`] = `
 exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
 <div>
   <div
-    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-qnu6hi"
+    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-5wsri9"
   >
     <div
-      class="ant-layout css-qnu6hi"
+      class="ant-layout css-5wsri9"
     >
       <main
-        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-qnu6hi"
+        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-5wsri9"
       >
         <div
           class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 iXAtvE"
           height="160"
         >
           <div
-            class="ant-row css-qnu6hi"
+            class="ant-row css-5wsri9"
             style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
           >
             <div
-              class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
+              class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
             >
               <div
                 style="height: 97%; overflow: auto; overflow-x: hidden; margin-bottom: 5px;"
               >
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -2328,7 +2328,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                         class="StatusContainerstyles__StatusUpdatedDiv-sc-1g03p6q-2 kaJTWH"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -2344,11 +2344,11 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCloseCircle-sc-1g03p6q-3 GsCjO"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCloseCircle-sc-1g03p6q-3 GsCjO"
                             type="button"
                           >
                             <span
@@ -2377,7 +2377,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </span>
                           </button>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCheckCircle-sc-1g03p6q-4 cxjSyJ"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCheckCircle-sc-1g03p6q-4 cxjSyJ"
                             type="button"
                           >
                             <span
@@ -2408,7 +2408,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </span>
                           </button>
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -2431,7 +2431,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -2464,7 +2464,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -2472,7 +2472,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -2488,11 +2488,11 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -2515,7 +2515,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -2552,11 +2552,11 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -2564,7 +2564,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                         class="StatusContainerstyles__StatusChangedDiv-sc-1g03p6q-1 jJnPEk"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                           style="border: 1px solid black; padding: 10px;"
                         >
                           Assigned
@@ -2575,7 +2575,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -2590,7 +2590,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </div>
                           </div>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px; position: absolute; right: 0px;"
                             type="button"
                           >
@@ -2623,7 +2623,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -2631,7 +2631,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -2647,11 +2647,11 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -2674,7 +2674,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -2711,11 +2711,11 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -2723,7 +2723,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                         class="StatusContainerstyles__StatusChangedDiv-sc-1g03p6q-1 jJnPEk"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                           style="border: 1px solid black; padding: 10px;"
                         >
                           Assigned
@@ -2734,7 +2734,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -2749,7 +2749,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </div>
                           </div>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px; position: absolute; right: 0px;"
                             type="button"
                           >
@@ -2782,7 +2782,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -2790,7 +2790,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -2806,11 +2806,11 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -2833,7 +2833,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -2870,11 +2870,11 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -2882,7 +2882,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                         class="StatusContainerstyles__StatusChangedDiv-sc-1g03p6q-1 jJnPEk"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                           style="border: 1px solid black; padding: 10px;"
                         >
                           Assigned
@@ -2893,7 +2893,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -2908,7 +2908,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </div>
                           </div>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px; position: absolute; right: 0px;"
                             type="button"
                           >
@@ -2941,7 +2941,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -2949,7 +2949,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -2965,11 +2965,11 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -2992,7 +2992,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -3029,11 +3029,11 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -3041,7 +3041,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                         class="StatusContainerstyles__StatusUpdatedDiv-sc-1g03p6q-2 kaJTWH"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -3057,11 +3057,11 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCloseCircle-sc-1g03p6q-3 GsCjO"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCloseCircle-sc-1g03p6q-3 GsCjO"
                             type="button"
                           >
                             <span
@@ -3090,7 +3090,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </span>
                           </button>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCheckCircle-sc-1g03p6q-4 cxjSyJ"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost StatusContainerstyles__StyledButtonCheckCircle-sc-1g03p6q-4 cxjSyJ"
                             type="button"
                           >
                             <span
@@ -3121,7 +3121,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </span>
                           </button>
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -3144,7 +3144,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -3177,7 +3177,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                     </div>
                   </div>
                   <div
-                    class="ant-col ant-col-24 css-qnu6hi"
+                    class="ant-col ant-col-24 css-5wsri9"
                     style="padding-left: 6px; padding-right: 6px;"
                   >
                     <div>
@@ -3185,7 +3185,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                         class="StatusContainerstyles__StatusUnmodifiedDiv-sc-1g03p6q-0 hxYLqT"
                       >
                         <div
-                          class="ant-flex css-qnu6hi ant-flex-align-center"
+                          class="ant-flex css-5wsri9 ant-flex-align-center"
                         >
                           <div
                             style="margin: 10px; border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px;"
@@ -3201,11 +3201,11 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-flex css-qnu6hi"
+                          class="ant-flex css-5wsri9"
                           style="gap: 20px;"
                         >
                           <span
-                            class="ant-badge ant-badge-not-a-wrapper css-qnu6hi"
+                            class="ant-badge ant-badge-not-a-wrapper css-5wsri9"
                           >
                             <sup
                               class="ant-scroll-number ant-badge-count"
@@ -3228,7 +3228,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                             </sup>
                           </span>
                           <button
-                            class="ant-btn css-qnu6hi ant-btn-default ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
+                            class="ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg ant-btn-icon-only ant-btn-background-ghost"
                             style="width: 20px;"
                             type="button"
                           >
@@ -3265,7 +3265,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
@@ -3278,7 +3278,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                   />
                 </div>
                 <div
-                  class="ant-row css-qnu6hi"
+                  class="ant-row css-5wsri9"
                   style="margin-left: -6px; margin-right: -6px; row-gap: 12px;"
                 >
                   <div
@@ -3292,7 +3292,7 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
                 </div>
               </div>
               <ul
-                class="ant-pagination css-dev-only-do-not-override-qnu6hi"
+                class="ant-pagination css-dev-only-do-not-override-5wsri9"
               >
                 <li
                   aria-disabled="true"
@@ -3416,10 +3416,10 @@ exports[`OrderListPreviewPage matches the snapshot mobile 1`] = `
               </ul>
             </div>
             <div
-              class="ant-col ant-col-12 css-dev-only-do-not-override-qnu6hi"
+              class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
             >
               <div
-                class="ant-flex css-qnu6hi ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
+                class="ant-flex css-5wsri9 ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
                 style="height: 100%; border: 1px solid black; font-size: 2rem;"
               >
                 <div>

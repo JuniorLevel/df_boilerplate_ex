@@ -4,7 +4,7 @@
 import React from 'react';
 import { useNavigate, useRouter, RouterProvider, createRootRoute, createRoute, createMemoryHistory, createRouter, Outlet } from '@tanstack/react-router';
 
-export const NavigateButton = () => {
+export const NavigateButton = (): React.Node => {
 	const navigate = useNavigate();
 
 	return (
@@ -14,7 +14,7 @@ export const NavigateButton = () => {
 	);
 };
 
-export const GoToBackButton = () => {
+export const GoToBackButton = (): React.Node => {
 	const { history } = useRouter();
 	return (
 		<button type="button" onClick={() => history.go(-1)}>

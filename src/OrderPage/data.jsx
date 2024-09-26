@@ -1,3 +1,5 @@
+// @flow
+
 import React from 'react';
 import { Flex, Badge } from 'antd';
 
@@ -51,40 +53,40 @@ export const items = [
 		key: 1,
 		label: (
 			<Flex gap={10} align="center">
-				<div>Main info</div>
-				<Badge count={3} />
-			</Flex>
+  <div>Main info</div>
+  <Badge count={3} />
+</Flex> as React.Node
 		),
-		children: <div>Content of Tab Pane 1</div>,
+		children: <div>Content of Tab Pane 1</div> as React.Node,
 	},
 	{
 		key: 2,
 		label: (
 			<Flex gap={10} align="center">
-				<div>Chat</div>
-				<Badge count={3} />
-			</Flex>
+  <div>Chat</div>
+  <Badge count={3} />
+</Flex> as React.Node
 		),
-		children: <div>Content of Tab Pane 2</div>,
+		children: <div>Content of Tab Pane 2</div> as React.Node,
 	},
 	{
 		key: 3,
 		label: (
 			<Flex gap={10} align="center">
-				<div>Dashboard</div>
-				<Badge count={3} />
-			</Flex>
+  <div>Dashboard</div>
+  <Badge count={3} />
+</Flex> as React.Node
 		),
-		children: <div>Content of Tab Pane 3</div>,
+		children: <div>Content of Tab Pane 3</div> as React.Node,
 	},
 	{
 		key: 4,
 		label: (
 			<Flex gap={10} align="center">
-				<div>Documents</div>
-				<Badge count={3} />
-			</Flex>
+  <div>Documents</div>
+  <Badge count={3} />
+</Flex> as React.Node
 		),
-		children: <div>Content of Tab Pane 4</div>,
+		children: <div>Content of Tab Pane 4</div> as React.Node,
 	},
 ];

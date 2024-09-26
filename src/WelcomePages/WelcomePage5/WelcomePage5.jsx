@@ -2,7 +2,7 @@
 
 import React from 'react';
 import MediaQuery from 'react-responsive';
-import { WelcomeButton, Welcome, WelcomeAuthButtons, SingleImageBg } from '@juniorlevel/df_boilerplate-library';
+import { WelcomeButton, Welcome, WelcomeAuthButtons, SingleImageBg } from '@/components';
 import { welcomeButtons, authButtons } from './data';
 import image from '../pictures/Image1.jpg';
 

@@ -3,13 +3,13 @@
 exports[`TimeWidgetsPage matches the snapshot desktop 1`] = `
 <div>
   <div
-    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-qnu6hi"
+    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-5wsri9"
   >
     <div
-      class="ant-layout css-qnu6hi"
+      class="ant-layout css-5wsri9"
     >
       <main
-        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-qnu6hi"
+        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-5wsri9"
       >
         <div
           class="TimeWidgetsPanel__StyledDiv-sc-1iizsjd-0 jTWgwQ"
@@ -18,50 +18,50 @@ exports[`TimeWidgetsPage matches the snapshot desktop 1`] = `
             style="padding: 10px; border: 1px solid black;"
           >
             <div
-              class="ant-flex css-qnu6hi ant-flex-wrap-wrap ant-flex-align-center ant-flex-justify-center"
+              class="ant-flex css-5wsri9 ant-flex-wrap-wrap ant-flex-align-center ant-flex-justify-center"
               style="gap: 10px;"
             >
               <div
-                class="ant-flex css-qnu6hi"
+                class="ant-flex css-5wsri9"
                 style="gap: 10px;"
               >
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   13
                 </span>
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   08
                 </span>
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   99
                 </span>
               </div>
               <div
-                class="ant-flex css-qnu6hi"
+                class="ant-flex css-5wsri9"
                 style="gap: 10px;"
               >
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   20
                 </span>
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   55
                 </span>
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   55
@@ -73,37 +73,37 @@ exports[`TimeWidgetsPage matches the snapshot desktop 1`] = `
             style="border: 1px solid black; padding: 10px; background-color: grey;"
           >
             <div
-              class="ant-typography TextFieldWidget__StyledParagraph-sc-v2harq-0 ectuWy css-qnu6hi"
+              class="ant-typography TextFieldWidget__StyledParagraph-sc-v2harq-0 ectuWy css-5wsri9"
             >
               Lorem asdasdas asdasdasd asdasdasd asdasdasdas sadasdasdasd asfdsdfsdfs sdfsdfsd fsdfsdahfd adfhfasdhgasdfg asfdhadffsdafs afdshadfgsadf
             </div>
           </div>
           <div
-            class="ant-flex css-qnu6hi ant-flex-wrap-wrap ant-flex-align-center"
+            class="ant-flex css-5wsri9 ant-flex-wrap-wrap ant-flex-align-center"
             style="border: 1px solid black; padding: 5px; gap: 5px;"
           >
             <div
-              class="ant-flex css-qnu6hi"
+              class="ant-flex css-5wsri9"
               style="border: 1px solid black; position: relative; padding: 20px;"
             >
               <span
-                class="ant-typography css-qnu6hi"
+                class="ant-typography css-5wsri9"
               >
                 Assigned
               </span>
               <span
-                class="ant-typography css-qnu6hi"
+                class="ant-typography css-5wsri9"
                 style="position: absolute; top: 0px; left: 5px; font-size: 10px;"
               >
                 role
               </span>
             </div>
             <div
-              class="ant-flex css-qnu6hi ant-flex-align-center"
+              class="ant-flex css-5wsri9 ant-flex-align-center"
               style="border: 1px solid black; padding: 15px; flex: 1 1 320px; gap: 10px;"
             >
               <span
-                class="ant-avatar ant-avatar-circle css-qnu6hi"
+                class="ant-avatar ant-avatar-circle css-5wsri9"
                 style="border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px; color: black; background-color: white;"
               >
                 <span
@@ -114,7 +114,7 @@ exports[`TimeWidgetsPage matches the snapshot desktop 1`] = `
                 </span>
               </span>
               <span
-                class="ant-typography css-qnu6hi"
+                class="ant-typography css-5wsri9"
               >
                 FIO FIO FIO FIO
               </span>
@@ -130,13 +130,13 @@ exports[`TimeWidgetsPage matches the snapshot desktop 1`] = `
 exports[`TimeWidgetsPage matches the snapshot laptop 1`] = `
 <div>
   <div
-    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-qnu6hi"
+    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-5wsri9"
   >
     <div
-      class="ant-layout css-qnu6hi"
+      class="ant-layout css-5wsri9"
     >
       <main
-        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-qnu6hi"
+        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-5wsri9"
       >
         <div
           class="TimeWidgetsPanel__StyledDiv-sc-1iizsjd-0 jTWgwQ"
@@ -145,50 +145,50 @@ exports[`TimeWidgetsPage matches the snapshot laptop 1`] = `
             style="padding: 10px; border: 1px solid black;"
           >
             <div
-              class="ant-flex css-qnu6hi ant-flex-wrap-wrap ant-flex-align-center ant-flex-justify-center"
+              class="ant-flex css-5wsri9 ant-flex-wrap-wrap ant-flex-align-center ant-flex-justify-center"
               style="gap: 10px;"
             >
               <div
-                class="ant-flex css-qnu6hi"
+                class="ant-flex css-5wsri9"
                 style="gap: 10px;"
               >
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   13
                 </span>
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   08
                 </span>
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   99
                 </span>
               </div>
               <div
-                class="ant-flex css-qnu6hi"
+                class="ant-flex css-5wsri9"
                 style="gap: 10px;"
               >
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   20
                 </span>
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   55
                 </span>
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   55
@@ -200,37 +200,37 @@ exports[`TimeWidgetsPage matches the snapshot laptop 1`] = `
             style="border: 1px solid black; padding: 10px; background-color: grey;"
           >
             <div
-              class="ant-typography TextFieldWidget__StyledParagraph-sc-v2harq-0 ectuWy css-qnu6hi"
+              class="ant-typography TextFieldWidget__StyledParagraph-sc-v2harq-0 ectuWy css-5wsri9"
             >
               Lorem asdasdas asdasdasd asdasdasd asdasdasdas sadasdasdasd asfdsdfsdfs sdfsdfsd fsdfsdahfd adfhfasdhgasdfg asfdhadffsdafs afdshadfgsadf
             </div>
           </div>
           <div
-            class="ant-flex css-qnu6hi ant-flex-wrap-wrap ant-flex-align-center"
+            class="ant-flex css-5wsri9 ant-flex-wrap-wrap ant-flex-align-center"
             style="border: 1px solid black; padding: 5px; gap: 5px;"
           >
             <div
-              class="ant-flex css-qnu6hi"
+              class="ant-flex css-5wsri9"
               style="border: 1px solid black; position: relative; padding: 20px;"
             >
               <span
-                class="ant-typography css-qnu6hi"
+                class="ant-typography css-5wsri9"
               >
                 Assigned
               </span>
               <span
-                class="ant-typography css-qnu6hi"
+                class="ant-typography css-5wsri9"
                 style="position: absolute; top: 0px; left: 5px; font-size: 10px;"
               >
                 role
               </span>
             </div>
             <div
-              class="ant-flex css-qnu6hi ant-flex-align-center"
+              class="ant-flex css-5wsri9 ant-flex-align-center"
               style="border: 1px solid black; padding: 15px; flex: 1 1 320px; gap: 10px;"
             >
               <span
-                class="ant-avatar ant-avatar-circle css-qnu6hi"
+                class="ant-avatar ant-avatar-circle css-5wsri9"
                 style="border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px; color: black; background-color: white;"
               >
                 <span
@@ -241,7 +241,7 @@ exports[`TimeWidgetsPage matches the snapshot laptop 1`] = `
                 </span>
               </span>
               <span
-                class="ant-typography css-qnu6hi"
+                class="ant-typography css-5wsri9"
               >
                 FIO FIO FIO FIO
               </span>
@@ -257,13 +257,13 @@ exports[`TimeWidgetsPage matches the snapshot laptop 1`] = `
 exports[`TimeWidgetsPage matches the snapshot mobile 1`] = `
 <div>
   <div
-    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-qnu6hi"
+    class="ant-layout Layoutstyles__StyledLayout-sc-httflb-0 ecYXYt css-5wsri9"
   >
     <div
-      class="ant-layout css-qnu6hi"
+      class="ant-layout css-5wsri9"
     >
       <main
-        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-qnu6hi"
+        class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-5wsri9"
       >
         <div
           class="TimeWidgetsPanel__StyledDiv-sc-1iizsjd-0 jTWgwQ"
@@ -272,50 +272,50 @@ exports[`TimeWidgetsPage matches the snapshot mobile 1`] = `
             style="padding: 10px; border: 1px solid black;"
           >
             <div
-              class="ant-flex css-qnu6hi ant-flex-wrap-wrap ant-flex-align-center ant-flex-justify-center"
+              class="ant-flex css-5wsri9 ant-flex-wrap-wrap ant-flex-align-center ant-flex-justify-center"
               style="gap: 10px;"
             >
               <div
-                class="ant-flex css-qnu6hi"
+                class="ant-flex css-5wsri9"
                 style="gap: 10px;"
               >
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   13
                 </span>
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   08
                 </span>
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   99
                 </span>
               </div>
               <div
-                class="ant-flex css-qnu6hi"
+                class="ant-flex css-5wsri9"
                 style="gap: 10px;"
               >
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   20
                 </span>
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   55
                 </span>
                 <span
-                  class="ant-typography css-qnu6hi"
+                  class="ant-typography css-5wsri9"
                   style="border: 1px solid black; padding: 10px;"
                 >
                   55
@@ -327,37 +327,37 @@ exports[`TimeWidgetsPage matches the snapshot mobile 1`] = `
             style="border: 1px solid black; padding: 10px; background-color: grey;"
           >
             <div
-              class="ant-typography TextFieldWidget__StyledParagraph-sc-v2harq-0 ectuWy css-qnu6hi"
+              class="ant-typography TextFieldWidget__StyledParagraph-sc-v2harq-0 ectuWy css-5wsri9"
             >
               Lorem asdasdas asdasdasd asdasdasd asdasdasdas sadasdasdasd asfdsdfsdfs sdfsdfsd fsdfsdahfd adfhfasdhgasdfg asfdhadffsdafs afdshadfgsadf
             </div>
           </div>
           <div
-            class="ant-flex css-qnu6hi ant-flex-wrap-wrap ant-flex-align-center"
+            class="ant-flex css-5wsri9 ant-flex-wrap-wrap ant-flex-align-center"
             style="border: 1px solid black; padding: 5px; gap: 5px;"
           >
             <div
-              class="ant-flex css-qnu6hi"
+              class="ant-flex css-5wsri9"
               style="border: 1px solid black; position: relative; padding: 20px;"
             >
               <span
-                class="ant-typography css-qnu6hi"
+                class="ant-typography css-5wsri9"
               >
                 Assigned
               </span>
               <span
-                class="ant-typography css-qnu6hi"
+                class="ant-typography css-5wsri9"
                 style="position: absolute; top: 0px; left: 5px; font-size: 10px;"
               >
                 role
               </span>
             </div>
             <div
-              class="ant-flex css-qnu6hi ant-flex-align-center"
+              class="ant-flex css-5wsri9 ant-flex-align-center"
               style="border: 1px solid black; padding: 15px; flex: 1 1 320px; gap: 10px;"
             >
               <span
-                class="ant-avatar ant-avatar-circle css-qnu6hi"
+                class="ant-avatar ant-avatar-circle css-5wsri9"
                 style="border: 1px solid black; border-radius: 50%; padding: 5px; font-size: 10px; color: black; background-color: white;"
               >
                 <span
@@ -368,7 +368,7 @@ exports[`TimeWidgetsPage matches the snapshot mobile 1`] = `
                 </span>
               </span>
               <span
-                class="ant-typography css-qnu6hi"
+                class="ant-typography css-5wsri9"
               >
                 FIO FIO FIO FIO
               </span>

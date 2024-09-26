@@ -2,7 +2,6 @@
 
 import React from 'react';
 import { Outlet, createRootRoute, createRoute, createRouter, createMemoryHistory, RouterProvider } from '@tanstack/react-router';
-import { Row, Col, Pagination as OrdersPagination } from 'antd';
 import {
 	OrdersFilterDesktopDialog,
 	Footer,
@@ -13,7 +12,8 @@ import {
 	OrdersFilterOpened,
 	OrderListPreviewContainer,
 	OrdersFilterProvider,
-} from '@juniorlevel/df_boilerplate-library';
+} from '@/components';
+import { Row, Col, Pagination as OrdersPagination } from 'antd';
 import { sidebarButtons, data, filters } from './data';
 
 const rootRoute = createRootRoute({

@@ -1,8 +1,8 @@
 // @flow
 
 import React from 'react';
+import { OrdersFilterProvider, Layout, OrdersFilterClosed, OrderListPreviewContainer, OrderListContainer, Order, OrderListItem } from '@/components';
 import { Col, Pagination as OrdersPagination } from 'antd';
-import { OrdersFilterProvider, Layout, OrdersFilterClosed, OrderListPreviewContainer, OrderListContainer, Order, OrderListItem } from '@juniorlevel/df_boilerplate-library';
 import { sidebarButtons, filters, data } from './data';
 
 export const OrderListPreviewPage = (): React.Node => (

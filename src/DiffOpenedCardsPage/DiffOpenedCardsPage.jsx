@@ -1,8 +1,8 @@
 // @flow
 
 import React from 'react';
+import { Layout, Footer, OrderListPreviewContainer, OrderListContainer, OrderListItem, Order, OrdersFilterOpened } from '@/components';
 import { Row, Col, Pagination as OrdersPagination } from 'antd';
-import { Layout, Footer, OrderListPreviewContainer, OrderListContainer, OrderListItem, Order, OrdersFilterOpened } from '@juniorlevel/df_boilerplate-library';
 import { sidebarButtons, filters, data } from './data';
 
 export const DiffOpenedCardsPage = (): React.Node => (

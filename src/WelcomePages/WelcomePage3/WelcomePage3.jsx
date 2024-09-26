@@ -2,7 +2,7 @@
 
 import React from 'react';
 import MediaQuery from 'react-responsive';
-import { Welcome, WelcomeAuthButtons, FourImagesBg, WelcomeButton } from '@juniorlevel/df_boilerplate-library';
+import { Welcome, WelcomeAuthButtons, FourImagesBg, WelcomeButton } from '@/components';
 import { welcomeButtons, authButtons, images } from './data';
 
 export const WelcomePage3 = (): React.Node => (

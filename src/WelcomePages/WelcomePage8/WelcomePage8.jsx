@@ -1,7 +1,7 @@
 // @flow
 
 import React from 'react';
-import { WelcomeButton, SingleImageBg, WelcomeAuthButtons, Welcome } from '@juniorlevel/df_boilerplate-library';
+import { WelcomeButton, SingleImageBg, WelcomeAuthButtons, Welcome } from '@/components';
 import { welcomeButtons, authButtons } from './data';
 import Image1 from '../pictures/Image1.jpg';
 

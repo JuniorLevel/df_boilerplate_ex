@@ -1,7 +1,7 @@
 // @flow
 
 import React from 'react';
-import { Welcome, WelcomeButton, WelcomeAuthButtons, FourImagesBg } from '@juniorlevel/df_boilerplate-library';
+import { Welcome, WelcomeButton, WelcomeAuthButtons, FourImagesBg } from '@/components';
 import { welcomeButtons, authButtons, images } from './data';
 
 export const WelcomePage4 = (): React.Node => (

@@ -1,8 +1,8 @@
 // @flow
 
 import React from 'react';
+import { Layout, OrderVersion, OrderPreview, OrderTabs, OrderContainer } from '@/components';
 import { Flex, Badge, Row, Col } from 'antd';
-import { Layout, OrderVersion, OrderPreview, OrderTabs, OrderContainer } from '@juniorlevel/df_boilerplate-library';
 import { filters, items, sidebarButtons } from './data';
 
 export const OrderPage = (): React.Node => (

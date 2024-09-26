@@ -3,9 +3,9 @@
 // @flow
 
 import React from 'react';
-import { ThemeWrapper } from '@juniorlevel/df_boilerplate-library';
 import { RouterProvider, Outlet } from '@tanstack/react-router';
 import { useErrorBoundary, ErrorBoundary } from 'react-error-boundary';
+import { ThemeWrapper } from '@/components';
 
 interface IWrapperProps {
 	children: React.Node;

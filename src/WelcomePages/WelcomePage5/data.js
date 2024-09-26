@@ -1,24 +1,25 @@
 /* eslint-disable no-alert */
+// @flow
 
 export const welcomeButtons = [
 	{
 		id: 1,
 		title: 'email',
-		onClick: () => alert('email'),
+		onClick: (): void => alert('email'),
 	},
 	{
 		id: 2,
 		title: 'LogIn',
-		onClick: () => alert('LogIn'),
+		onClick: (): void => alert('LogIn'),
 	},
 	{
 		id: 3,
 		title: 'CreateAccount',
-		onClick: () => alert('CreateAccount'),
+		onClick: (): void => alert('CreateAccount'),
 	},
 ];
 
 export const authButtons = [
-	{ id: 1, title: 'G', onClick: () => alert('click1') },
-	{ id: 2, title: 'VK', onClick: () => alert('click2') },
+	{ id: 1, title: 'G', onClick: (): void => alert('click1') },
+	{ id: 2, title: 'VK', onClick: (): void => alert('click2') },
 ];

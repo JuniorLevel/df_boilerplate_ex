@@ -19,7 +19,7 @@ export const sidebarButtons = [
 export const data = [
 	{
 		id: 1,
-		dataSearch: [],
+		dataSearch: [] as Array<empty>,
 		dataSearchUsers: [
 			{
 				id: 1,
@@ -43,7 +43,7 @@ export const data = [
 	},
 	{
 		id: 2,
-		dataSearch: [],
+		dataSearch: [] as Array<empty>,
 		dataSearchUsers: [
 			{
 				id: 1,
@@ -67,7 +67,7 @@ export const data = [
 	},
 	{
 		id: 3,
-		dataSearch: [],
+		dataSearch: [] as Array<empty>,
 		dataSearchUsers: [
 			{
 				id: 1,
@@ -91,7 +91,7 @@ export const data = [
 	},
 	{
 		id: 4,
-		dataSearch: [],
+		dataSearch: [] as Array<empty>,
 		dataSearchUsers: [
 			{
 				id: 1,
@@ -115,7 +115,7 @@ export const data = [
 	},
 	{
 		id: 5,
-		dataSearch: [],
+		dataSearch: [] as Array<empty>,
 		dataSearchUsers: [
 			{
 				id: 1,
@@ -139,7 +139,7 @@ export const data = [
 	},
 	{
 		id: 6,
-		dataSearch: [],
+		dataSearch: [] as Array<empty>,
 		dataSearchUsers: [
 			{
 				id: 1,

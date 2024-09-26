@@ -33,6 +33,9 @@ module.exports = (env) => ({
 		clean: true,
 	},
 	resolve: {
+		alias: {
+			'@': path.resolve(__dirname, 'src'),
+		},
 		extensions: ['.*', '.js', '.jsx'],
 	},
 	plugins: [

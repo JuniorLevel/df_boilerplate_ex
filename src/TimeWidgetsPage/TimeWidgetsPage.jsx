@@ -1,7 +1,7 @@
 // @flow
 
 import React from 'react';
-import { TimeWidgetsPanel, Layout } from '@juniorlevel/df_boilerplate-library';
+import { TimeWidgetsPanel, Layout } from '@/components';
 import { sidebarButtons } from './data';
 
 export const TimeWidgetsPage = (): React.Node => (

@@ -3,7 +3,7 @@
 import React from 'react';
 import { Outlet, createRootRoute, createRoute, createRouter, createMemoryHistory, RouterProvider } from '@tanstack/react-router';
 import { useMediaQuery } from 'react-responsive';
-import { OrdersFilterMobileDialog, OrdersFilterOpened, Layout, OrdersFilterProvider, OrdersFilterDesktopDialog } from '@juniorlevel/df_boilerplate-library';
+import { OrdersFilterMobileDialog, OrdersFilterOpened, Layout, OrdersFilterProvider, OrdersFilterDesktopDialog } from '@/components';
 import { sidebarButtons, filters } from './data';
 
 const rootRoute = createRootRoute({

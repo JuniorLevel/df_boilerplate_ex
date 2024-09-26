@@ -1,7 +1,7 @@
 // @flow
 
 import React from 'react';
-import { FiltersSearchListItem, Layout, OrdersFilterClosed, OrdersFilterProvider, FiltersSearchListContainer } from '@juniorlevel/df_boilerplate-library';
+import { FiltersSearchListItem, Layout, OrdersFilterClosed, OrdersFilterProvider, FiltersSearchListContainer } from '@/components';
 import { data, filters, sidebarButtons } from './data';
 
 export const OrdersFilterClosedPage = (): React.Node => (
