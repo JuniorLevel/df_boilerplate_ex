@@ -38,14 +38,14 @@ exports[`OrderPage matches the snapshot desktop 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         Main info
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -82,14 +82,14 @@ exports[`OrderPage matches the snapshot desktop 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         Chat
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -126,14 +126,14 @@ exports[`OrderPage matches the snapshot desktop 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         Dashboard
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -170,14 +170,14 @@ exports[`OrderPage matches the snapshot desktop 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         Documents
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -214,14 +214,14 @@ exports[`OrderPage matches the snapshot desktop 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         History
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -304,19 +304,19 @@ exports[`OrderPage matches the snapshot desktop 1`] = `
                   class="OrderContainer__StyledOrderContainer-sc-1palxqi-0 cpQfvD"
                 >
                   <div
-                    class="ant-row css-dev-only-do-not-override-5wsri9"
+                    class="ant-row css-dev-only-do-not-override-ccdg5a"
                     style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
                   >
                     <div
-                      class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                      class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                       style="padding-left: 8px; padding-right: 8px;"
                     >
                       <div
-                        class="ant-row css-dev-only-do-not-override-5wsri9"
+                        class="ant-row css-dev-only-do-not-override-ccdg5a"
                         style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
                       >
                         <div
-                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                           style="padding-left: 8px; padding-right: 8px;"
                         >
                           <div
@@ -546,7 +546,7 @@ exports[`OrderPage matches the snapshot desktop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                           style="padding-left: 8px; padding-right: 8px;"
                         >
                           <div
@@ -561,15 +561,15 @@ exports[`OrderPage matches the snapshot desktop 1`] = `
                       </div>
                     </div>
                     <div
-                      class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                      class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                       style="padding-left: 8px; padding-right: 8px;"
                     >
                       <div
-                        class="ant-row css-dev-only-do-not-override-5wsri9"
+                        class="ant-row css-dev-only-do-not-override-ccdg5a"
                         style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
                       >
                         <div
-                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                           style="padding-left: 8px; padding-right: 8px;"
                         >
                           <div
@@ -582,7 +582,7 @@ exports[`OrderPage matches the snapshot desktop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                           style="padding-left: 8px; padding-right: 8px;"
                         >
                           <div
@@ -863,14 +863,14 @@ exports[`OrderPage matches the snapshot laptop 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         Main info
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -907,14 +907,14 @@ exports[`OrderPage matches the snapshot laptop 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         Chat
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -951,14 +951,14 @@ exports[`OrderPage matches the snapshot laptop 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         Dashboard
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -995,14 +995,14 @@ exports[`OrderPage matches the snapshot laptop 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         Documents
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -1039,14 +1039,14 @@ exports[`OrderPage matches the snapshot laptop 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         History
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -1129,19 +1129,19 @@ exports[`OrderPage matches the snapshot laptop 1`] = `
                   class="OrderContainer__StyledOrderContainer-sc-1palxqi-0 cpQfvD"
                 >
                   <div
-                    class="ant-row css-dev-only-do-not-override-5wsri9"
+                    class="ant-row css-dev-only-do-not-override-ccdg5a"
                     style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
                   >
                     <div
-                      class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                      class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                       style="padding-left: 8px; padding-right: 8px;"
                     >
                       <div
-                        class="ant-row css-dev-only-do-not-override-5wsri9"
+                        class="ant-row css-dev-only-do-not-override-ccdg5a"
                         style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
                       >
                         <div
-                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                           style="padding-left: 8px; padding-right: 8px;"
                         >
                           <div
@@ -1371,7 +1371,7 @@ exports[`OrderPage matches the snapshot laptop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                           style="padding-left: 8px; padding-right: 8px;"
                         >
                           <div
@@ -1386,15 +1386,15 @@ exports[`OrderPage matches the snapshot laptop 1`] = `
                       </div>
                     </div>
                     <div
-                      class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                      class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                       style="padding-left: 8px; padding-right: 8px;"
                     >
                       <div
-                        class="ant-row css-dev-only-do-not-override-5wsri9"
+                        class="ant-row css-dev-only-do-not-override-ccdg5a"
                         style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
                       >
                         <div
-                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                           style="padding-left: 8px; padding-right: 8px;"
                         >
                           <div
@@ -1407,7 +1407,7 @@ exports[`OrderPage matches the snapshot laptop 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                           style="padding-left: 8px; padding-right: 8px;"
                         >
                           <div
@@ -1688,14 +1688,14 @@ exports[`OrderPage matches the snapshot mobile 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         Main info
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -1732,14 +1732,14 @@ exports[`OrderPage matches the snapshot mobile 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         Chat
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -1776,14 +1776,14 @@ exports[`OrderPage matches the snapshot mobile 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         Dashboard
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -1820,14 +1820,14 @@ exports[`OrderPage matches the snapshot mobile 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         Documents
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -1864,14 +1864,14 @@ exports[`OrderPage matches the snapshot mobile 1`] = `
                     tabindex="0"
                   >
                     <div
-                      class="ant-flex css-dev-only-do-not-override-5wsri9 ant-flex-align-center"
+                      class="ant-flex css-dev-only-do-not-override-ccdg5a ant-flex-align-center"
                       style="gap: 10px;"
                     >
                       <div>
                         History
                       </div>
                       <span
-                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-5wsri9"
+                        class="ant-badge ant-badge-not-a-wrapper css-dev-only-do-not-override-ccdg5a"
                       >
                         <sup
                           class="ant-scroll-number ant-badge-count"
@@ -1954,19 +1954,19 @@ exports[`OrderPage matches the snapshot mobile 1`] = `
                   class="OrderContainer__StyledOrderContainer-sc-1palxqi-0 cpQfvD"
                 >
                   <div
-                    class="ant-row css-dev-only-do-not-override-5wsri9"
+                    class="ant-row css-dev-only-do-not-override-ccdg5a"
                     style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
                   >
                     <div
-                      class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                      class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                       style="padding-left: 8px; padding-right: 8px;"
                     >
                       <div
-                        class="ant-row css-dev-only-do-not-override-5wsri9"
+                        class="ant-row css-dev-only-do-not-override-ccdg5a"
                         style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
                       >
                         <div
-                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                           style="padding-left: 8px; padding-right: 8px;"
                         >
                           <div
@@ -2196,7 +2196,7 @@ exports[`OrderPage matches the snapshot mobile 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                           style="padding-left: 8px; padding-right: 8px;"
                         >
                           <div
@@ -2211,15 +2211,15 @@ exports[`OrderPage matches the snapshot mobile 1`] = `
                       </div>
                     </div>
                     <div
-                      class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                      class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                       style="padding-left: 8px; padding-right: 8px;"
                     >
                       <div
-                        class="ant-row css-dev-only-do-not-override-5wsri9"
+                        class="ant-row css-dev-only-do-not-override-ccdg5a"
                         style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
                       >
                         <div
-                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                           style="padding-left: 8px; padding-right: 8px;"
                         >
                           <div
@@ -2232,7 +2232,7 @@ exports[`OrderPage matches the snapshot mobile 1`] = `
                           </div>
                         </div>
                         <div
-                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-5wsri9"
+                          class="ant-col ant-col-xs-12 css-dev-only-do-not-override-ccdg5a"
                           style="padding-left: 8px; padding-right: 8px;"
                         >
                           <div

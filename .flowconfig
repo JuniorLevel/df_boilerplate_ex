@@ -1,5 +1,5 @@
 [version]
-0.246.0
+0.247.1
 [ignore]
 <PROJECT_ROOT>/node_modules/
 <PROJECT_ROOT>/github-pages/
@@ -12,7 +12,6 @@
 untyped-type-import=error
 internal-type=error
 deprecated-type-bool=error
-deprecated-type-dollar-call=error
 deprecated-type-predicate=error
 
 [options]

@@ -12,7 +12,7 @@ import {
 	OrdersFilterOpened,
 	OrderListPreviewContainer,
 	OrdersFilterProvider,
-} from '@juniorlevel/df_boilerplate-library';
+} from '@/components';
 import { sidebarButtons, data, filters } from './data';
 import { RouterWrapper, OutletComponent } from '../Wrapper';
 

@@ -12,10 +12,10 @@ exports[`DiffClosedCardsPage matches the snapshot desktop 1`] = `
         class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-5wsri9"
       >
         <div
-          class="ant-row css-dev-only-do-not-override-5wsri9"
+          class="ant-row css-dev-only-do-not-override-ccdg5a"
         >
           <div
-            class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+            class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
           >
             <div
               class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 dtdUFt"
@@ -26,7 +26,7 @@ exports[`DiffClosedCardsPage matches the snapshot desktop 1`] = `
                 style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
               >
                 <div
-                  class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+                  class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
                 >
                   <div
                     style="height: 97%; overflow: auto; overflow-x: hidden; margin-bottom: 5px;"
@@ -1231,7 +1231,7 @@ exports[`DiffClosedCardsPage matches the snapshot desktop 1`] = `
                     </div>
                   </div>
                   <ul
-                    class="ant-pagination css-dev-only-do-not-override-5wsri9"
+                    class="ant-pagination css-dev-only-do-not-override-ccdg5a"
                   >
                     <li
                       aria-disabled="true"
@@ -1355,7 +1355,7 @@ exports[`DiffClosedCardsPage matches the snapshot desktop 1`] = `
                   </ul>
                 </div>
                 <div
-                  class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+                  class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
                 >
                   <div
                     class="ant-flex css-5wsri9 ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
@@ -1370,7 +1370,7 @@ exports[`DiffClosedCardsPage matches the snapshot desktop 1`] = `
             </div>
           </div>
           <div
-            class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+            class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
           >
             <div
               class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 dtdUFt"
@@ -1381,7 +1381,7 @@ exports[`DiffClosedCardsPage matches the snapshot desktop 1`] = `
                 style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
               >
                 <div
-                  class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+                  class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
                 >
                   <div
                     style="height: 97%; overflow: auto; overflow-x: hidden; margin-bottom: 5px;"
@@ -2586,7 +2586,7 @@ exports[`DiffClosedCardsPage matches the snapshot desktop 1`] = `
                     </div>
                   </div>
                   <ul
-                    class="ant-pagination css-dev-only-do-not-override-5wsri9"
+                    class="ant-pagination css-dev-only-do-not-override-ccdg5a"
                   >
                     <li
                       aria-disabled="true"
@@ -2710,7 +2710,7 @@ exports[`DiffClosedCardsPage matches the snapshot desktop 1`] = `
                   </ul>
                 </div>
                 <div
-                  class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+                  class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
                 >
                   <div
                     class="ant-flex css-5wsri9 ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
@@ -2753,10 +2753,10 @@ exports[`DiffClosedCardsPage matches the snapshot laptop 1`] = `
         class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-5wsri9"
       >
         <div
-          class="ant-row css-dev-only-do-not-override-5wsri9"
+          class="ant-row css-dev-only-do-not-override-ccdg5a"
         >
           <div
-            class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+            class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
           >
             <div
               class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 dtdUFt"
@@ -2767,7 +2767,7 @@ exports[`DiffClosedCardsPage matches the snapshot laptop 1`] = `
                 style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
               >
                 <div
-                  class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+                  class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
                 >
                   <div
                     style="height: 97%; overflow: auto; overflow-x: hidden; margin-bottom: 5px;"
@@ -3972,7 +3972,7 @@ exports[`DiffClosedCardsPage matches the snapshot laptop 1`] = `
                     </div>
                   </div>
                   <ul
-                    class="ant-pagination css-dev-only-do-not-override-5wsri9"
+                    class="ant-pagination css-dev-only-do-not-override-ccdg5a"
                   >
                     <li
                       aria-disabled="true"
@@ -4096,7 +4096,7 @@ exports[`DiffClosedCardsPage matches the snapshot laptop 1`] = `
                   </ul>
                 </div>
                 <div
-                  class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+                  class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
                 >
                   <div
                     class="ant-flex css-5wsri9 ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
@@ -4111,7 +4111,7 @@ exports[`DiffClosedCardsPage matches the snapshot laptop 1`] = `
             </div>
           </div>
           <div
-            class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+            class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
           >
             <div
               class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 dtdUFt"
@@ -4122,7 +4122,7 @@ exports[`DiffClosedCardsPage matches the snapshot laptop 1`] = `
                 style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
               >
                 <div
-                  class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+                  class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
                 >
                   <div
                     style="height: 97%; overflow: auto; overflow-x: hidden; margin-bottom: 5px;"
@@ -5327,7 +5327,7 @@ exports[`DiffClosedCardsPage matches the snapshot laptop 1`] = `
                     </div>
                   </div>
                   <ul
-                    class="ant-pagination css-dev-only-do-not-override-5wsri9"
+                    class="ant-pagination css-dev-only-do-not-override-ccdg5a"
                   >
                     <li
                       aria-disabled="true"
@@ -5451,7 +5451,7 @@ exports[`DiffClosedCardsPage matches the snapshot laptop 1`] = `
                   </ul>
                 </div>
                 <div
-                  class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+                  class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
                 >
                   <div
                     class="ant-flex css-5wsri9 ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
@@ -5494,10 +5494,10 @@ exports[`DiffClosedCardsPage matches the snapshot mobile 1`] = `
         class="ant-layout-content Layoutstyles__StyledContent-sc-httflb-1 iIrHAO css-5wsri9"
       >
         <div
-          class="ant-row css-dev-only-do-not-override-5wsri9"
+          class="ant-row css-dev-only-do-not-override-ccdg5a"
         >
           <div
-            class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+            class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
           >
             <div
               class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 dtdUFt"
@@ -5508,7 +5508,7 @@ exports[`DiffClosedCardsPage matches the snapshot mobile 1`] = `
                 style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
               >
                 <div
-                  class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+                  class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
                 >
                   <div
                     style="height: 97%; overflow: auto; overflow-x: hidden; margin-bottom: 5px;"
@@ -6713,7 +6713,7 @@ exports[`DiffClosedCardsPage matches the snapshot mobile 1`] = `
                     </div>
                   </div>
                   <ul
-                    class="ant-pagination css-dev-only-do-not-override-5wsri9"
+                    class="ant-pagination css-dev-only-do-not-override-ccdg5a"
                   >
                     <li
                       aria-disabled="true"
@@ -6837,7 +6837,7 @@ exports[`DiffClosedCardsPage matches the snapshot mobile 1`] = `
                   </ul>
                 </div>
                 <div
-                  class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+                  class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
                 >
                   <div
                     class="ant-flex css-5wsri9 ant-flex-align-center ant-flex-justify-center ant-flex-vertical"
@@ -6852,7 +6852,7 @@ exports[`DiffClosedCardsPage matches the snapshot mobile 1`] = `
             </div>
           </div>
           <div
-            class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+            class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
           >
             <div
               class="OrderListPreviewContainer__StyledOrderListPreviewContainer-sc-bjf9sh-0 dtdUFt"
@@ -6863,7 +6863,7 @@ exports[`DiffClosedCardsPage matches the snapshot mobile 1`] = `
                 style="margin-left: -8px; margin-right: -8px; row-gap: 16px;"
               >
                 <div
-                  class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+                  class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
                 >
                   <div
                     style="height: 97%; overflow: auto; overflow-x: hidden; margin-bottom: 5px;"
@@ -8068,7 +8068,7 @@ exports[`DiffClosedCardsPage matches the snapshot mobile 1`] = `
                     </div>
                   </div>
                   <ul
-                    class="ant-pagination css-dev-only-do-not-override-5wsri9"
+                    class="ant-pagination css-dev-only-do-not-override-ccdg5a"
                   >
                     <li
                       aria-disabled="true"
@@ -8192,7 +8192,7 @@ exports[`DiffClosedCardsPage matches the snapshot mobile 1`] = `
                   </ul>
                 </div>
                 <div
-                  class="ant-col ant-col-12 css-dev-only-do-not-override-5wsri9"
+                  class="ant-col ant-col-12 css-dev-only-do-not-override-ccdg5a"
                 >
                   <div
                     class="ant-flex css-5wsri9 ant-flex-align-center ant-flex-justify-center ant-flex-vertical"

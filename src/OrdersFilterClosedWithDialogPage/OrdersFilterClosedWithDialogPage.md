@@ -1,18 +1,8 @@
 ```jsx
 import React from 'react';
 import { Outlet, createRootRoute, createRoute, createRouter, createMemoryHistory, RouterProvider } from '@tanstack/react-router';
-import {
-	OrdersFilterProvider,
-	OrderListPreviewContainer,
-	Layout,
-	OrdersFilterClosed,
-	OrdersFilterDesktopDialog,
-	Col,
-	OrderListItem,
-	Order,
-	OrderListContainer,
-	Pagination as OrdersPagination,
-} from '@juniorlevel/df_boilerplate-library';
+import { Col, Pagination as OrdersPagination } from 'antd';
+import { OrdersFilterProvider, OrderListPreviewContainer, Layout, OrdersFilterClosed, OrdersFilterDesktopDialog, OrderListItem, Order, OrderListContainer } from '@/components';
 import { sidebarButtons, data, filters } from './data';
 import { RouterWrapper, OutletComponent } from '../Wrapper';
 
