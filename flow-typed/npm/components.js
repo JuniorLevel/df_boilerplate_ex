@@ -53,56 +53,59 @@ declare module '@/components' {
 		children: React.Node;
 	}>;
 	declare export const TimeWidgetsPanel: React.ComponentType<{}>;
-	declare export const PersonWidget: React.ComponentType<{
+	declare export const SelectAndPerson: React.ComponentType<{
 		userRole: string;
 		fio: string;
 	}>;
-	declare export const TextFieldWidget: React.ComponentType<{
+	declare export const TextWidget: React.ComponentType<{
 		text: string;
 	}>;
 	declare export const TimeWidgets1: React.ComponentType<{
 		date: string;
 	}>;
 	declare export const TimeWidgets2: React.ComponentType<{
-		fullDate: any;
+		fullDate: { date: string; time: string };
 	}>;
 	declare export const TimeWidgets3: React.ComponentType<{
-		fullDate: any;
+		fullDate: { date: string; time: string };
 	}>;
 	declare export const TimeWidgets4: React.ComponentType<{
-		fullDate: any;
+		fullDate: { date: string; time: string };
 	}>;
 	declare export const TimeWidgets5: React.ComponentType<{
-		fullDate: any;
+		fullDate: { date: string; time: string };
 	}>;
 	declare export const TimeWidgets6: React.ComponentType<{
-		fullDate: any;
+		fullDate: { date: string; time: string };
 	}>;
 	declare export const TimeWidgets7: React.ComponentType<{
-		fullDate: any;
+		fullDate: { date: string; time: string };
 	}>;
 	declare export const TimeWidgets8: React.ComponentType<{
-		fullDate: any;
+		fullDate: { date: string; time: string };
 	}>;
 	declare export const TimeWidgetsCustomClock: React.ComponentType<{}>;
 	declare export const TimeWidgetsDateWithTimeBlock: React.ComponentType<{
-		fullDate: any;
+		fullDate: { date: string; time: string };
 	}>;
 	declare export const TimeWidgetsDaysPanel: React.ComponentType<{}>;
 	declare export const TimeWidgetsWeeksAndYearsPanel: React.ComponentType<{}>;
-	declare export const TimeWidgetsWithPerson: React.ComponentType<{
-		fullDate: any;
+	declare export const SelectPersonRange: React.ComponentType<{
+		fullDate: { date: string; time: string };
 		userRole: string;
 		fio: string;
 	}>;
-	declare export const TimeWidgetsWithTextField1: React.ComponentType<{
-		fullDate: any;
+	declare export const TextTimeRange1: React.ComponentType<{
+		text: string;
+		fullDate: { date: string; time: string };
 	}>;
-	declare export const TimeWidgetsWithTextField2: React.ComponentType<{
-		fullDate: any;
+	declare export const TextTimeRange2: React.ComponentType<{
+		text: string;
+		fullDate: { date: string; time: string };
 	}>;
-	declare export const TimeWidgetsWithTextField3: React.ComponentType<{
-		fullDate: any;
+	declare export const TextTimeRange3: React.ComponentType<{
+		text: string;
+		fullDate: { date: string; time: string };
 	}>;
 	declare export const Welcome: React.ComponentType<{
 		children: React.Node;
@@ -126,4 +129,3 @@ declare module '@/components' {
 	declare export const OrdersFilterDesktopDialog: React.ComponentType<{}>;
 	declare export const OrdersFilterMobileDialog: React.ComponentType<{}>;
 }
-

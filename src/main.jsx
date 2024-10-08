@@ -1,7 +1,7 @@
 // @flow
 import React, { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
-import { ThemeWrapper } from "@/components";
+import { ThemeWrapper  } from "@/components";
 import { AppRouter } from './AppRouter';
 
 const container = document.getElementById('root') as HTMLElement | any;
@@ -13,3 +13,4 @@ root.render(
 		</ThemeWrapper>
 	</StrictMode>
 );
+
